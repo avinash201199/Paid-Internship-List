@@ -1,1 +1,1 @@
-# Internship-List-for-CS-IT
+# Paid-Internship-List

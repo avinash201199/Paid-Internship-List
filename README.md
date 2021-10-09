@@ -27,6 +27,14 @@ If this opportunity interests you, apply and come chart your own path at Amazon.
 By applying to this position your application will be considered for all locations we hire for in India. This includes but is not limited to Bengaluru, Chennai, Hyderabad, Delhi and Pune.<br>
 Amazon internships are full-time (40 hours/week) for eight consecutive weeks (two months) with start dates between April and May 2021 or six months (as per university academic framework) with start dates between January and February 2021.
  <br>
+
+#### KEY JOB RESPONSIBILITIES <br>
+· Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.<br>
+· Design and build innovative technologies in a large distributed computing environment, and help lead fundamental changes in the industry.<br>
+· Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.<br>
+· Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.<br>
+· Ability to design and code the right solutions starting with broadly defined problems.<br>
+· Work in an agile environment to deliver high-quality software.<br>
 <br>
 Official Website- <br>
 https://www.amazon.jobs/en/jobs/1227693/software-development-engineer-intern<br>

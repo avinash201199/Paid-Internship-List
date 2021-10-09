@@ -36,6 +36,19 @@ Amazon internships are full-time (40 hours/week) for eight consecutive weeks (tw
 · Ability to design and code the right solutions starting with broadly defined problems.<br>
 · Work in an agile environment to deliver high-quality software.<br>
 <br>
+ 
+
+#### BASIC QUALIFICATIONS <br>
+· Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
+· Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
+· Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
+
+#### PREFERRED QUALIFICATIONS <br>
+· Previous technical internship(s), if applicable.<br>
+· Experience with distributed, multi-tiered systems, algorithms, and relational databases.<br>
+· Experience in optimization mathematics such as linear programming and nonlinear optimization.<br>
+· Ability to effectively articulate technical challenges and solutions.<br>
+· Adept at handling ambiguous or undefined problems as well as ability to think abstractly.<br>
 Official Website- <br>
 https://www.amazon.jobs/en/jobs/1227693/software-development-engineer-intern<br>
 <br>

@@ -13,7 +13,7 @@
 <hr>
 
 <details>
-<summary>Software Development Engineer Intern - Amazon</summary>
+<summary> Amazon- Software Development Engineer Intern </summary>
 <br>
 About <br>
 At Amazon, we hire the best minds in technology to innovate and build on behalf of our customers. The intense focus we have on our customers is why we are one of the world’s most beloved brands – customer obsession is part of our company DNA. Our interns write real software and collaborate with a select group of experienced software development engineers (SDEs) who guide interns on projects that matter to our customers.<br>

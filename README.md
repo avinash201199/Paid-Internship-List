@@ -36,7 +36,6 @@ Amazon internships are full-time (40 hours/week) for eight consecutive weeks (tw
 · Ability to design and code the right solutions starting with broadly defined problems.<br>
 · Work in an agile environment to deliver high-quality software.<br>
 <br>
- 
 
 #### BASIC QUALIFICATIONS <br>
 · Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>

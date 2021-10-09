@@ -7,7 +7,7 @@
 - Star this repository
 - Create an issue with description about the internship and wait for approval.
 - Then fork this repository.
-- Add description about the internship,official website link in alphabetical order.
+- Add description about the internship in readme file with official website link in alphabetical order.
 - Make pull request and wait for review.
 
 <hr>

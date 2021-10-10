@@ -53,3 +53,39 @@ https://www.amazon.jobs/en/jobs/1227693/software-development-engineer-intern<br>
 <br>
 
 </details>
+<details>
+ <summary>
+  Vodafone Internship Drive 2021</summary>
+ <br>
+ <h1>About</h1>
+ Vodafone is hiring for the position of the intern, for more such off campus drives, internships, free udemy coupons be updated on our website. <br>
+<h2>What helps you in getting selected?</h2>
+
+*   **Resume:** A resume or CV is the first thing that will reach your recruiter/employer.
+    *   Your resume should not exceed more than a page.
+    *   Your resume should mention your skills and projects (most important)
+    *   Never send resume in docx file. Always send your resume in pdf file format.
+    *   Your resume should have a clear focus on the job position that you are looking forward to.
+*   Prepare for your exams through test series and learning material. ([Edusera](https://edusera.org/) Recommended)
+*   Improve your communication skills.
+*   Maintain your Linkedin Profile (Highly recommended)
+<br>
+ 
+ **Elegibility**
+===========
+
+*   Data Modelling
+*   Data Visualisation
+*   Data Analytics and Insights
+*   Data Management and Transformation
+*   AI – Deep and Machine Learning
+*   Leading Organisation Culture and
+*   ChangeStrategic
+*   Mindset
+ 
+ #### BASIC QUALIFICATIONS <br>
+* Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
+* Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
+* Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
+[official Vodafone site](https://careers.vodafone.com/job/Pune-Intern/722984701)
+</details>

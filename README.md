@@ -13,6 +13,48 @@
 <hr>
 
 <details>
+<summary> Amazon- Programmer Analyst Intern </summary>
+<br>
+About <br>
+The Transportation Team is looking for a passionate software programmer analyst 
+who will be responsible for working with business, operations to gather ship carrier requirements
+ and collaborate with transportation technology teams to integrate new carriers and ship methods into the network.
+  As part of the integration, you have to design, develop and maintain transportation documents like shipping labels, 
+  carrier electronic manifest and invoices. You should also be working alongside development on Amazon Corporate and 
+  Divisional Software projects, updating/enhancing our current software, automation of manual configuration processes 
+  and documentation of our systems.<br>
+
+Your solutions will impact our customers directly! This job requires you to constantly hit the ground 
+running and your ability to learn quickly and work on disparate and overlapping tasks will define your success.
+The ideal candidate must be detail oriented, have superior verbal and written communication skills, strong organizational skills, 
+able to juggle multiple tasks at once, able to work independently and can maintain professionalism under pressure.
+ You must be able to identify problems before they happen and implement solutions that detect and prevent outages. 
+ You must be able to accurately prioritize projects, make sound judgments, work to improve the customer experience, 
+ and get the right things done. <br>
+
+#### BASIC QUALIFICATIONS <br>
+- 0-3 years overall development/technical support experience.<br>
+- Strong object oriented development knowledge in C++ and/or Java.<br>
+- Knowledge of the UNIX/Linux operating system.<br>
+- Proven ability to troubleshoot and identify the root cause of issues.<br>
+- Demonstrates skill and passion for operational excellence.<br>
+- Documentation skills<br>
+
+#### PREFERRED QUALIFICATIONS <br>
+- 0-3 years overall development/technical support experience.<br>
+- Strong object oriented development knowledge in C++ and/or Java.<br>
+- Knowledge of the UNIX/Linux operating system.<br>
+- Knowledge on velocity language.<br>
+- Proven ability to troubleshoot and identify the root cause of issues.<br>
+- Demonstrates skill and passion for operational excellence.<br>
+- Documentation skills<br>
+
+Official Website- <br>
+https://www.amazon.jobs/en-gb/jobs/1375720/programmer-analyst-intern<br>
+<br>
+
+</details>
+<details>
 <summary> Amazon- Software Development Engineer Intern </summary>
 <br>
 About <br>
@@ -72,7 +114,7 @@ https://www.amazon.jobs/en/jobs/1227693/software-development-engineer-intern<br>
 *   Maintain your Linkedin Profile (Highly recommended)
 <br>
  
- **Elegibility**
+ **Eligibility**
 ===========
 
 *   Data Modelling

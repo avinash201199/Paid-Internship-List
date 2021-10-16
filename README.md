@@ -173,5 +173,59 @@ If you have any questions about the above mentioned steps, write into internship
 [official HackerRank site](https://boards.greenhouse.io/hackerrank/jobs/3223315)
 </details>
 
+<details>
+<summary> Microsoft is offering free internship/learning/job program by future ready talent </summary>
+<br>
+ <h1> About </h1> <br>
+Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs. The program aims at preparing learners work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools.<br>
 
+ <h1> How does it work? </h1> <br>
 
+Future Ready Talent is a virtual internship platform for students with an opportunity to learn the in-demand technology skills and work towards solving real world problem using the power of Microsoft Azure & GitHub tools. The students can earn internship credits on completion of the program with an entry to exclusive career fairs. <br>
+
+The program is open to all students who will be joining the workforce in next 2 years along with students who graduated in 2021. <br>
+
+<h1> Goal of the Program </h1> <br>
+
+Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs. The program aims at preparing learners work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools. <br>
+
+Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs. The program aims at preparing learners work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools. <br>
+
+  **Eligibility**
+===========
+ The program is open to students who will graduate in 2022, 2023, and graduated in 2021. Students from all specializations are open to participate. <br>
+ 
+Official Website- <br>
+https://futurereadytalent.in/courses <br>
+<br>
+
+</details>
+
+<details>
+ <summary> Apple-Software Development Intern </summary>
+ <br>
+ <h1>About</h1>
+ People at Apple don’t just build products — they craft the kind of experience that has revolutionised entire industries. The diverse collection of our people and their ideas encourage innovation in everything we do. Imagine what you could do here! Join Apple, and help us leave the world better than we found it. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly. Every single day, people do amazing things at Apple. Apple is an Equal Employment Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants including minorities women protected veterans and individuals with disabilities. <br>
+<h2>Description</h2>
+At Apple, we work every single day to craft products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informative and imaginative content on their devices while helping publishers and developers promote and monetize their work. Our technology and services power advertising in Apple News and Search Ads in App Store. Our platforms are highly-performant, deployed at scale, and setting new standards for enabling effective advertising while protecting user privacy. As part of our geographical expansion, we’re looking for strong Software Development Engineers to build highly scalable data platforms and services. The people here at Apple don’t just build products — they build the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.
+<br>
+ 
+ #### BASIC QUALIFICATIONS <br>
+We are looking to hire full time software engineering interns across different organisations within Apple to intern between January - July ’22.<br>
+ 
+ #### ADDITIONAL REQUIREMENTS <br>
+ 
+Apple has a long-standing commitment to India, with a focus on product development, iOS ecosystem expansion, manufacturing, and sales.<br>
+
+Fostering India’s vibrant and entrepreneurial iOS development community, Apple’s App Accelerator in Bengaluru provides specialised support and training to local developers and we’ve helped numerous apps find local and international success. The App Accelerator has led to more than 873,000 jobs in India that can be attributed directly to the iOS App ecosystem.<br>
+
+India is one of the few countries in the world where Apple manufactures iPhones. We are proud to locally manufacture iPhone 12, iPhone SE, iPhone 11 and iPhone XR, and have also previously manufactured iPhone 7, iPhone 6S, and the first generation of iPhone SE in country.<br>
+
+A number of Apple’s suppliers with operations in India have steadily joined Apple’s Supplier Clean Energy Programme, recently including Yuto and CCL. We’re also working with Wistron on an educational health programme focused on women’s health and well-being as they have an outsized impact on their families and community.<br>
+
+Our community initiatives also include providing iPads to Akanksha Foundation who educate children from low-income communities across Mumbai and Pune. We are also expanding our investments in education, by introducing the global Apple Teacher programme for 5,700 Apple Teacher members and 1,000 Apple Teachers so far who are integrating technology into their teaching and learning practice <br>
+
+Official Website- <br>
+https://jobs.apple.com/en-us/details/200300095/software-development-intern<br>
+<br>
+</details>

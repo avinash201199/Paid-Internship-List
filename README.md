@@ -251,9 +251,9 @@ Participate in developing a business case by documenting the relationship betwee
  
  #### Eligibility <br>
 Environment:
-You should have professional knowledge related to incumbent’s position and ability to absorb professional knowledge quickly and develop skills related to technical, functional, software and soft skills.
+You should have professional knowledge related to incumbent’s position and ability to absorb professional knowledge quickly and develop skills related to technical, functional, software and soft skills.<br>
 Communication and Collaboration:
-You should demonstrate good interpersonal, and collaboration skills. In addition, good communication and presentation skills for effective interactions with project partners
+You should demonstrate good interpersonal, and collaboration skills. In addition, good communication and presentation skills for effective interactions with project partners<br>
 Flexibility:
 You should be willing to skill-up in multiple domains and technologies, work in any IBM metro city location and travel as required
 

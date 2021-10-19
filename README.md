@@ -229,3 +229,37 @@ Official Website- <br>
 https://jobs.apple.com/en-us/details/200300095/software-development-intern<br>
 <br>
 </details>
+
+
+
+
+<details>
+ <summary> IBM Business Development Internship – Entry Level</summary>
+ <br>
+ <h1>About</h1>
+ At IBM, work is more than a job – it’s a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you’ve never thought possible. Are you ready to lead in this new era of technology and solve some of the world’s most challenging problems? If so, lets talk. <br>
+<h2>Your Role and Responsibilities</h2>
+Work with clients to identify business challenges and contribute to client deliverables by refining, analyzing, and structuring relevant data. Test hypotheses to validate the root cause of business or technical issues and enable solution development
+Deliver projects and/or initiatives that address multi-faceted issues, working across organizational boundaries, interfacing with senior executives and working effectively in teams
+Develop value-creating strategies and models that enable clients to innovate, drive growth and increase their business profitability
+Attain strong business acumen, strategy and cross-industry thought leadership; acquire ability to research, analyze & determine how and where the client should compete
+Produce deliverables that reflect insights into the client’s competitors, market challenges, relevant best practices and trends
+Define specific performance measures, targets, and goals to enable clients to measure success; articulate how the metrics contribute to the business case and link to client’s overall strategy or mission
+Participate in developing a business case by documenting the relationship between business requirements, the proposed solution, trade-offs, and expected results.
+
+<br>
+ 
+ #### Eligibility <br>
+Environment:
+You should have professional knowledge related to incumbent’s position and ability to absorb professional knowledge quickly and develop skills related to technical, functional, software and soft skills.
+Communication and Collaboration:
+You should demonstrate good interpersonal, and collaboration skills. In addition, good communication and presentation skills for effective interactions with project partners
+Flexibility:
+You should be willing to skill-up in multiple domains and technologies, work in any IBM metro city location and travel as required
+
+<br>
+
+Official Website- <br>
+https://careers.ibm.com/job/13886353/intern-remote/?codes=IBM_CareerWebSite<br>
+<br>
+</details>

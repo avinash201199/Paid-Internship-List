@@ -263,3 +263,32 @@ Official Website- <br>
 https://careers.ibm.com/job/13886353/intern-remote/?codes=IBM_CareerWebSite<br>
 <br>
 </details>
+
+
+<details>
+ <summary>
+   Google Step Internship</summary>
+ <br>
+ <h1>About</h1>
+ STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science. The internship program has a focus of providing development opportunities to students from groups historically underrepresented in tech, through technical training and professional development. Our unique internship offers the opportunity to work on a software project alongside other STEP interns and full-time Googlers, and provides the chance to bridge the gap between academic understanding and practical professional experience. <br>
+<h2>What helps you in getting selected?</h2>
+
+*   **Resume Selection:**
+    *   Your resume should not exceed one page limit.
+    *   Mention your accomplishments, skills and projects (most important)
+    *   Preferred format: .pdf
+    *   Improve your communication skills.
+    *   Maintain your Linkedin Profile (Highly recommended)
+<br>
+ 
+ **Eligibility**
+===========
+
+*   Second Year undergraduate with a major in Computer Science or related fields.
+ 
+ #### BASIC QUALIFICATIONS <br>
+* Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
+* Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
+* Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
+Official website link : [click here](https://buildyourfuture.withgoogle.com/programs/step/)
+</details>

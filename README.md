@@ -292,3 +292,35 @@ https://careers.ibm.com/job/13886353/intern-remote/?codes=IBM_CareerWebSite<br>
 * Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
 [official website link](https://buildyourfuture.withgoogle.com/programs/step/)
 </details>
+
+
+<details>
+ <summary>
+   Google SWE Internship</summary>
+ <br>
+ <h1>About</h1>
+ This is 12-13 weeks internship, wherein students work alongside other STEP interns on a specific SWE project, attend skills-based and professional development training and are mentored by Google engineers.<br>
+
+**Application process**
+ To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Provide the required materials in the appropriate sections (PDFs preferred):
+
+1. In the “Resume Section:” attach an updated CV or resume. <br>
+2. In the “Education Section:” attach a current or recent unofficial or official transcript in English. <br>
+
+**Minimum qualifications:**
+
+1. Currently enrolled in a Bachelor's, Master’s or PhD degree in Computer Science or a related technical field. <br>
+2. Experience with Data Structures or Algorithms from university, an internship, open source hobby coding, or other practical experience. <br>
+3. Coding experience in one of the following programming languages: C++, Java, Python or Go. <br>
+
+**Preferred qualifications:**
+
+1. Available to work full-time for a minimum of 13 weeks. <br>
+2. Returning to your degree after completing the internship. <br>
+3. Internship or work experience (i.e. research assistant, teaching assistant, personal projects, etc) programming in either: C++, Java, Python or Go. <br>
+4. Experience with one or more of the following: web application development, Unix/Linux, mobile application development, distributed and parallel systems, machine learning, information retrieval, natural language processing, networking, developing large software systems, and/or security software development. <br>
+5. Interest and ability to learn other coding languages as needed. <br>
+6. Ability to speak and write in English fluently. <br>
+
+[official website link](https://buildyourfuture.withgoogle.com/internships/)
+</details>

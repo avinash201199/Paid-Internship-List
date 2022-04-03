@@ -3,12 +3,11 @@
 <summary> IBM - Software Developers</summary>
 <br>
 About <br>
-Responsibilities: <br><br>
 
 Design, develop, debug and Test application software
 Take initiative and excel in teamwork <br>
 
-Required Technical and Professional Expertise <br><br>
+Required Technical and Professional Expertise <br>
 
 Should be good understanding and coding knowledge in atleast one of these languages: Java, Perl, Python, React JS<br>
 Developing reusable software/framework-based products dealing with scalability, availability, reliability, testability<br>
@@ -18,7 +17,7 @@ Skilled in software design, data structures, and algorithms<br>
 Problem solving skills, attention to detail, and the ability to think creatively<br>
 <br><br>
 
-Preferred Technical and Professional Expertise<br><br>
+Preferred Technical and Professional Expertise<br>
 
 Knowledge with Linux and Kubernetes, Microservices, Swagger, REST, JSON, Kafka<br>
 ServiceNow, Gradle, Maven, GitHub, Jenkins, Spring Boot, MySQL, Elastic Search, unit testing (junit)<br>

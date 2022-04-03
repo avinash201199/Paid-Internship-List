@@ -2,7 +2,7 @@
 
 ## Add paid internship list with details in given format :)
 
-### How to contribute 😎<br>
+### How to contribute 😎 <br>
 
 - Star this repository
 - Create an issue with description about the internship and wait for approval.

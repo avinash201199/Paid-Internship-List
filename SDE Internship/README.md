@@ -1,5 +1,5 @@
 <details>
-<summary> Software Development Engineer - Intern (Amazon WoW Applications)</summary>
+<summary>Amazon Software Development Engineer - Intern (WoW Applications)</summary>
 <br>
 About <br>
 

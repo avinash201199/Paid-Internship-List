@@ -55,3 +55,17 @@ https://careers.ibm.com/job/15137642/<br>
 <br>
 
 </details>
+  
+  <details>
+<summary>Intel - Software intern</summary>
+<br>
+About <br>
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � � Preferred Qualifications: � � Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+ <br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/2994083985/<br>
+<br>
+
+</details>

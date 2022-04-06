@@ -25,6 +25,40 @@ https://www.amazon.jobs/en/jobs/1688605/software-development-engineer-intern-ama
 <br>
 
 </details>
+  
+<details>
+<summary>Autodesk- Intern, Software Developer (PDMS-DPM-Engineering)</summary>
+<br>
+About <br>
+
+Fusion 360 is a Integrated CAD, CAM and CAE software that eliminates need for connected product development process, Unifying design, engineering and manufacturing into a single platform. Fusion Team is data backbone of Fusion 360 and is a Cloud Collaboration Tool that supports data workflows for Fusion 360. It eliminates the inefficiencies that disparate tools create when working with your internal and external teams. Fusion team enables you to manage access and share files securely with internal and external stakeholders. It supports viewing and rendering of design files as well. It helps you Remove the silos from your traditional design process and utilize a modern collaboration environment regardless of your role. Connect your teams and external stakeholders, communicate in real-time and centralize project activity.In this position, intern would be working on Fusion Team ecosystem that has myriad of microservices, monolith BE Rest Services, Web & Mobile interface, etc. We encourage applicants to bring their insight, imagination, and a healthy disregard for the impossible. Together, we can build for everyone.<br>
+<br><br>
+
+Responsibilities <br>
+
+Research, conceive and develop software applications to extend and improve on Autodesk's product offering<br>
+Collaborate on scalability issues involving access to data and information<br>
+Utilize exposure to large-scale production software troubleshooting<br>
+Help maintain mission critical services<br>
+
+ 
+Minimum Qualifications<br>
+
+Bachelor/Master of Engineering with major in: Computer Science/Mechanical/Civil/Electrical etc.<br>
+Full-time, 6-month commitment from June to July 2022<br>
+
+ 
+Preferred Qualifications<br>
+
+Hands-on with Java and Node.js Stack<br>
+Exposure to web designing using modern Front End Framework such as React, Angular, Vue, etc<br>
+Exposure to DBMS such as mySQL, MongoDB, etc.<br>
+  
+Official Website- <br>
+https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-Developer--PDMS-DPM-Engineering-_22WD57844<br>
+<br>
+
+</details>  
 
 <details>
 <summary> IBM - Software Developers</summary>

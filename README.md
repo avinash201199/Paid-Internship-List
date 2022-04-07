@@ -463,4 +463,20 @@ Each applicant should request for a letter of recommendation by giving the name 
 [official website link](https://careers.microsoft.com/us/en/job/931311/Research-Intern)
 </details>
 
+<details>
+ <summary>Optum - Software Engineering Intern</summary>
+ <br>
+ <h1>About</h1>
+ 
+ Required Qualifications <br>
+Uprising Junior or Senior student working towards a bachelor’s degree in Computer Science, Information Technology, Computer Engineering or related field
+Understanding of object-oriented programming concepts
+Working knowledge of Visual Studio, VB.NET/C#, .NET Core, .NET Framework, ASP.NET, ADO.NET, Angular, Web API
+Experience with SQL database applications
+Full COVID-19 vaccination is an essential requirement of this role. Candidates located in states that mandate COVID-19 booster doses must also comply with those state requirements. UnitedHealth Group will adhere to all federal, state and local regulations as well as all client requirements and will obtain necessary proof of vaccination, and boosters when applicable, prior to employment to ensure compliance<br>
+
+[official website link](https://careers.microsoft.com/us/en/job/931311/Research-Intern)
+</details>
+
+
 

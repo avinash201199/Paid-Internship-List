@@ -121,7 +121,7 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 </details>
  
 <details>
- <summary></summary>Hike - SDE Intern
+  <summary></summary>Hike - SDE Intern </summary>
  <br>
  <h1>About</h1>
  

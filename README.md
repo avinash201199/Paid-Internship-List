@@ -426,7 +426,7 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
  <summary>Moody's - Summer Internship Program 2022 – India</summary>
  <br>
  <h1>About</h1>
- Qualifications <br>
+ Qualifications <br><br>
  
 • Students from diverse backgrounds and academic disciplines with a strong focus on Computer Science, Software Engineering, Business, Finance, Accounting, Economics or   Liberal Arts.
  

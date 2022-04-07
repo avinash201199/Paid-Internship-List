@@ -437,3 +437,30 @@ Moody’s is an equal opportunity employer. All qualified applicants will receiv
 [official website link](https://careers.moodys.com/job/14468787/summer-internship-program-2022-india-gurgaon-in/)
 </details>
 
+<details>
+ <summary>Microsoft - Research Intern</summary>
+ <br>
+ <h1>About</h1>
+ 
+ Responsibilities <br>
+During the internship, students are paired with mentors and expected to collaborate with other interns and researchers, present findings, and contribute to the vibrant life of the community.
+
+MSR India conducts research in a wide range of areas and Internships are available in all of them.
+
+In the application process, we’ll try to find the opportunity that best aligns with your interests.
+
+Internships are offered year round, though a majority begin in the summer.
+
+All internships are paid. And, we’ll help with visa applications where needed.
+
+
+Qualifications <br>
+Candidates must be enroled in a university as part of either a doctoral, masters, or undergraduate program (or must be a recent graduate from such a program). Please include your resume and upto three letters of recommendation while applying for this job.
+ 
+
+Each applicant should request for a letter of recommendation by giving the name and email ID of the referee in the tool. The request will then be routed to the referee to upload a letter of recommendation. Please pay attention to the five areas of research and choose your interest while answering to the screening questions.
+
+[official website link](https://careers.microsoft.com/us/en/job/931311/Research-Intern)
+</details>
+
+

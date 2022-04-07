@@ -422,3 +422,16 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
 [official website link](https://xiaomi.app.param.ai/jobs/test-intern-880/)
 </details>
 
+<details>
+ <summary>Moody's - Summer Internship Program 2022 – India</summary>
+ <br>
+ <h1>About</h1>
+ Qualifications
+• Students from diverse backgrounds and academic disciplines with a strong focus on Computer Science, Software Engineering, Business, Finance, Accounting, Economics or Liberal Arts.
+• Students who are graduating between December 2022 – June 2023.
+Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender expression, gender identity or any other characteristic protected by law.<br>
+
+
+[official website link](https://careers.moodys.com/job/14468787/summer-internship-program-2022-india-gurgaon-in/)
+</details>
+

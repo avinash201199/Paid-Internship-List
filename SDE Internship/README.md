@@ -119,5 +119,29 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 
 [official website link](https://www.linkedin.com/jobs/view/2992328274/)
 </details>
+ 
+<details>
+ <summary></summary>Hike - SDE Intern
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Bachelor's Degree in Computer Science, Software Engineering or related area
+* Experience with various programming languages such as C++/C# programming, Java, HTML5, and JavaScript
+* Ability to interact with cross-functional teams
+* Highly developed analytical and organizational skills
+* Work in an agile environment to deliver high-quality software.
+* Experience with distributed, multi-tiered systems, algorithms, and relational databases.
+* Experience in optimization mathematics such as linear programming and nonlinear optimization.
+* Ability to effectively articulate technical challenges and solutions.
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://www.linkedin.com/jobs/view/2936952678/)
+</details>
+
+  
+  
 
   

@@ -404,4 +404,21 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
 
 [official website link](https://buildyourfuture.withgoogle.com/internships/)
 </details>
+<details>
+ <summary>Xiaomi - Test Intern</summary>
+ <br>
+ <h1>About</h1>
+ Selected intern's day-to-day responsibilities include: 
+
+• Provide technical support on project testing around the preparation of test coverage, scripts preparation
+
+ • Work on defect template setup, requirement traceability configuration, and any other configuration requirements around the testing
+
+ • Work on defect life cycle management within the project
+
+ • Look for opportunities to use testing automation tools and techniques to improve the quality and delivery of the testing. <br>
+
+
+[official website link](https://xiaomi.app.param.ai/jobs/test-intern-880/)
+</details>
 

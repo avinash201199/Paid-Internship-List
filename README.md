@@ -342,6 +342,25 @@ https://www.linkedin.com/jobs/view/2994083985/<br>
 
 </details>
 
+</details>
+  
+  <details>
+<summary>Intel - Student intern</summary>
+<br>
+About <br>
+A candidate for a temporary position who has not yet graduated and is working towards a relevant Bachelor's, Specialist's, Technical, Master's or PhD degree from a relevant academic institute. A Student employee can do specific work in the area of their future degree or work as a Generalist in a specific department. The Studentship is limited in time with the intent to hire into an College Graduate/ Technical Graduate position as appropriate <br>
+
+Qualifications <br>
+
+Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � � Preferred Qualifications: � �Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
+ <br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/2996404172/<br>
+<br>
+
+</details>
+
 
 <details>
  <summary>

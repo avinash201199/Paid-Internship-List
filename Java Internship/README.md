@@ -20,13 +20,13 @@ Must have JAVA knowlegde.<br>
 Qualifications:<br>
   
 You'd fit right in if you have:  
+ 
 • Have a solid grounding in Computer Science fundamentals
-
 • Are good at Problem solving  
 • Know and have good hands on at least more than 2 programming languages with ease and have a strong opinion of which one is your favorite.  
 • Have actively developed firsthand any web application with database/datastore, simple or complex does not matter to us, using Nodejs/Java/Python or any other language and deployed or thinking of deploying it on any cloud server like AWS/GCP etc.  
-•We would love to look at your Github repo or links to the deployed web-app. Beautiful UI does not matter, as much as a Postman collection does, so bonus marks for creating API documentation or having a detailed README on Github.
-•Have the right attitude, are a team player and an avid learner.
+• We would love to look at your Github repo or links to the deployed web-app. Beautiful UI does not matter, as much as a Postman collection does, so bonus marks for creating API documentation or having a detailed README on Github.
+• Have the right attitude, are a team player and an avid learner.
   
 Join us If you are excited about:  <br>
 
@@ -38,7 +38,7 @@ Join us If you are excited about:  <br>
 
 • A start-up culture that you'd cherish forever in your work life
 
- • Flexible career paths.
+• Flexible career paths.
 
 • A chance to have a lot of fun while you work. 
 

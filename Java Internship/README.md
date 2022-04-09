@@ -3,7 +3,9 @@
 <summary> Merkle Software Design Engineer - Intern- Java </summary>
 <br>
 About <br>
-#### What would your day look like:  
+ 
+#### What would your day look like: 
+ 
 Implement solutions for broadly defined problems <br>
 Must have JAVA knowlegde.<br>
  Be involved in full fledged product development.  <br>
@@ -40,12 +42,7 @@ Join us If you are excited about:  <br>
 
 • A chance to have a lot of fun while you work. 
 
-Not Convinced Yet, Did we mention
 
-• We have an almost 100% full time conversion rate till date, even with a very high bar for conversion, We really have very cool, hard working mentors.
-
-Looking for Immediate/Early Joiners Only.<br>
-- Documentation skills<br>
 
 Official Website- <br>
 https://www.merkleinc.com/emea/careers/all-openings/743999769680950<br>

@@ -616,4 +616,26 @@ https://www.merkleinc.com/emea/careers/all-openings/743999769680950<br>
 
 </details>
 
+<details>
+<summary> HP - Summer Interns 2022 </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+Apprentice includes students working at hp who are enrolled in apprenticeship programs in association with their university. Typically used in countries where specialized apprenticeship programs exist. College Interns are university students who are working at hp during their study or in summer breaks between university semesters. College Intern is only used in selected countries where it is not the practice to differentiate based on academic year completed.<br>
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+
+
+Official Website- <br>
+https://jobs.hp.com/jobdetails/15465850/<br>
+<br>
+
+</details>
+
+
+
 

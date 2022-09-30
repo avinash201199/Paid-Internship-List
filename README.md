@@ -2,13 +2,17 @@
 
 ## Add paid internship list with details in given format :)
 
-### How to contribute 😎 <br>
+### How to contribute 😎<br>
 
-- Star this repository
-- Create an issue with description about the internship and wait for approval.
-- Then fork this repository.
-- Add description about the internship in readme file with official website link in alphabetical order.
-- Make pull request and wait for review.
+You can contribute in many ways in this repository 
+1. If you are beginner then you can contribute by improving the structure of the repository. <br>
+2. Design the website for this repository with the content. <br>
+3. Add more free courses into the list which are not present. <br>
+
+Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/blob/main/CONTRIBUTING.md) file to get started 
+
+#### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
+
 
 <hr>
 

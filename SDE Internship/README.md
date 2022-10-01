@@ -141,6 +141,28 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://www.linkedin.com/jobs/view/2936952678/)
 </details>
 
+
+<details>
+  <summary>DTCC - SDE Intern </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* You must be working towards a bachelor’s degree in the following curriculums: Computer Science, Information   Technology, MIS or Business & Technology Management or any equivalent specialization
+* You must have minimum of a 60% of marks (till the last semester) to be considered
+* Should be graduating in 2024
+* Candidates should be willing to do the internship from DTCC chennai Office
+* Experience and contribute to high-impact projects during a 10-week program (In April-June 23 Time frame)
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Ability to work within a team environment  
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
+</details>
+
   
   
 

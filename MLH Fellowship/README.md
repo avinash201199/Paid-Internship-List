@@ -1,6 +1,4 @@
-<details>
-  <summary>MLH Fellowship</summary>
- <br>
+# MLH Fellowship
  
 ### About
  
@@ -29,5 +27,3 @@
  
 [official website link](https://fellowship.mlh.io/)
 <br>
- 
-</details>

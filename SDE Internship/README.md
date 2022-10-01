@@ -61,6 +61,19 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
 </details>  
 
 <details>
+
+<summary>Dell hiring</summary>
+
+Role: Intern<br>
+Batch: 2023, 2024<br>
+Location: Bangalore<br>
+
+Link: https://jobs.dell.com/job/-/-/375/37151004304 <br>
+  <br>
+  </details>
+
+<details>
+
 <summary> IBM - Software Developers</summary>
 <br>
 About <br>
@@ -164,6 +177,26 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 </details>
 
 <details>
+  <summary>React Js Developer Internship </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Work closely with software teams and understand the customer and product requirements
+* Write well designed, testable, and efficient code
+* Execute full lifecycle software development
+* Integrate software components into a fully functional software system
+* Document and maintain software functionality
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Implement, test, and deploy software solutions while ensuring performance, durability, and security of the platform Other requirements:
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3291507061)
+</details>
+
   <summary>ClearFeed -Software Engineer Intern </summary>
  <br>
  <h1>About</h1>
@@ -189,7 +222,23 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
 </details>
 
+<details>
+  <summary>SONY -Trainee Software Engineer-6</summary>
+ <br>
+ <h1>About the Job</h1>
+We look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
 
+The conversation starts here. If this role matches your ambitions and skillset, let's get started with your application. Take a look at our other open positions too. Our many opportunities can lead to infinite possibilities.
+
+Design/Propose enhancements for targeted Computer Vision applications.
+ 
+<br>
+
+[official website link](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Bangalore/Trainee-Software-Engineer-6_JR-109940)
+</details>
+
+
+<<<<<<< HEAD
 <details>
   <summary>Cisco : Software Engineer – Cloud Application Development (Intern) - India UHR </summary>
  <br>
@@ -225,5 +274,27 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 
   
   
+=======
+>>>>>>> c6ce017a15d481abc4965fbbd4ca525e9a66aed2
 
+
+<details>
+  <summary>Software Engineer Intern- Shadowing AI </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
   
+* Work closely with software teams and understand the customer and product requirements
+* Development experience with programming languages and SQL is a plus.
+* Execute full lifecycle software development
+* Integrate software components into a fully functional software system
+* Test software and web applications
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Discover and fix programming bugs
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://shadowing.ai/hiring/640e46770f056c74-software-engineer-intern)
+</details>

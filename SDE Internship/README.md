@@ -164,6 +164,26 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 </details>
 
 <details>
+  <summary>React Js Developer Internship </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Work closely with software teams and understand the customer and product requirements
+* Write well designed, testable, and efficient code
+* Execute full lifecycle software development
+* Integrate software components into a fully functional software system
+* Document and maintain software functionality
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Implement, test, and deploy software solutions while ensuring performance, durability, and security of the platform Other requirements:
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3291507061)
+</details>
+
   <summary>ClearFeed -Software Engineer Intern </summary>
  <br>
  <h1>About</h1>
@@ -189,6 +209,28 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
 </details>
 
+
+
+<details>
+  <summary>Software Engineer Intern- Shadowing AI </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Work closely with software teams and understand the customer and product requirements
+* Development experience with programming languages and SQL is a plus.
+* Execute full lifecycle software development
+* Integrate software components into a fully functional software system
+* Test software and web applications
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Discover and fix programming bugs
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://shadowing.ai/hiring/640e46770f056c74-software-engineer-intern)
+</details>
 
   
   

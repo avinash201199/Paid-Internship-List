@@ -60,7 +60,6 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
 
 </details>  
 
-<details>
 
 <summary>Dell hiring</summary>
 
@@ -70,6 +69,9 @@ Location: Bangalore<br>
 
 Link: https://jobs.dell.com/job/-/-/375/37151004304 <br>
   <br>
+  </details>
+
+<details>
 
 <summary> IBM - Software Developers</summary>
 <br>

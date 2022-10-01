@@ -6,7 +6,7 @@
 
 You can contribute in many ways in this repository 
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
-2. Design the website for this repository (HTML,CSS & JS <br>
+2. Design the website for this repository (HTML, CSS & JS). <br>
 3. Add more paid internship into the list which are not present. <br>
 
 Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/blob/main/CONTRIBUTING.md) file to get started 

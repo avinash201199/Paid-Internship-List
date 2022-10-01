@@ -60,6 +60,7 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
 
 </details>  
 
+<details>
 
 <summary>Dell hiring</summary>
 

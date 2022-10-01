@@ -209,6 +209,22 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
 </details>
 
+<details>
+  <summary>SONY -Trainee Software Engineer-6</summary>
+ <br>
+ <h1>About the Job</h1>
+We look for the risk-takers, the collaborators, the inspired and the inspirational. We want the people who are brave enough to work at the cutting edge and create solutions that will enrich and improve the lives of people across the globe. So, if you want to make the world say wow, let's talk.
+
+The conversation starts here. If this role matches your ambitions and skillset, let's get started with your application. Take a look at our other open positions too. Our many opportunities can lead to infinite possibilities.
+
+Design/Propose enhancements for targeted Computer Vision applications.
+ 
+<br>
+
+[official website link](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Bangalore/Trainee-Software-Engineer-6_JR-109940)
+</details>
+
+
 
 
 <details>

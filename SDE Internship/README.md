@@ -70,9 +70,7 @@ Location: Bangalore<br>
 
 Link: https://jobs.dell.com/job/-/-/375/37151004304 <br>
   <br>
-<details>
 
-</details>
 <summary> IBM - Software Developers</summary>
 <br>
 About <br>

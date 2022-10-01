@@ -72,9 +72,9 @@ Link: https://jobs.dell.com/job/-/-/375/37151004304
 <details>
 
 </details>
-  <summary>DTCC - SDE Intern </summary>
- <br>
-  <h4>About</h4> <br>
+  
+  <summary>DTCC - SDE Intern </summary><br>
+  About <br>
  
 ##### Skills & Experience We're Looking For 👨‍💻
   

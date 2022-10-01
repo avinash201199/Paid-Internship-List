@@ -163,6 +163,27 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
 </details>
 
+<details>
+  <summary>React Js Developer Internship </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Work closely with software teams and understand the customer and product requirements
+* Write well designed, testable, and efficient code
+* Execute full lifecycle software development
+* Integrate software components into a fully functional software system
+* Document and maintain software functionality
+* Strong problem solving and analytical skills 
+* Good written & oral communication skills  
+* Implement, test, and deploy software solutions while ensuring performance, durability, and security of the platform Other requirements:
+* Ability to design and code the right solutions starting with broadly defined problems.
+<br>
+
+[official website link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3291507061)
+</details>
+
   
   
 

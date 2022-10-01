@@ -11,6 +11,7 @@ BASIC QUALIFICATIONS <br>
 Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application.
 Knowledge of the syntax of languages such as Java, C/C++ or Python.
 Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.
+If you are proficient in problem solving. They are in dire need of problem solvers.
 
 PREFERRED QUALIFICATIONS <BR>
 Previous technical internship(s), if applicable.

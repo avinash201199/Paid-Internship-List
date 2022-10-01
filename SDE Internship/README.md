@@ -1,4 +1,37 @@
 <details>
+<summary> Google Software Developer Internship 2023 (unstop) </summary>
+<br>
+About <br>
+
+
+Google is hiring for Summer Intern(Software Engineer)!
+
+Responsibilities of the Candidate:
+- Specific responsibilities vary by project area
+<br><br>
+BASIC REQUIREMENTS:
+- Currently pursuing a Bachelor's/ Master's or Ph.D. degree in Computer Science or related technical field
+- Experience in software development in one or more general-purpose programming languages
+- Ability to speak and write in English fluently
+- Returning to a degree program after completion of the internship
+- Experience in systems software or algorithms
+- Knowledge of Unix/ Linux or Windows environments and APIs
+- Familiarity with TCP/ IP and network programming
+- Effective implementation skills (e.g., C++, Java, Python)
+<br>
+About Intership
+- Join us for a 10-12 week paid internship that offers personal and professional development, and community-building. The Software Engineering Internship program will
+ give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller
+ projects that have universal appeal. Our engineers create, fix, extend, and scale the code to keep it working and to harden it against all the bad actors of the
+ internet. You will work on software development projects to keep important business-critical systems up and running, from code-level troubleshooting of traffic
+ anomalies to maintenance of our services; from monitoring and alerts to building automation infrastructure. Just imagine trying to design and build an automated
+ testing system for something that's never been done before.
+ website - https://unstop.com/internship/engineering-internship-summer-2023-google-417669
+<br>
+
+
+
+<details>
 <summary>Amazon Software Development Engineer - Intern (WoW Applications)</summary>
 <br>
 About <br>

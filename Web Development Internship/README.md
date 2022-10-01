@@ -1,8 +1,8 @@
 <details>
-<summary>Teaching (Coding and Programming) work from home job/internship at Camp K12 </summary>
+<summary> <b>Teaching (Coding and Programming) work from home job/internship at Camp K12  <b> </summary>
 <br>
-About Camp K12
-Website : https://campk12.com/
+About Camp K12 <br>
+Website : https://campk12.com/ <br>
 Camp K12 is an ed-tech startup founded by an MIT and Harvard computer science graduate and the ex-CEO of Apple (India), bringing coding and 21st-century skills to students of ages 6-18 globally. We were India's first coding boot camp for school kids in 2011, and today, we are the leader in the K-12 education space, both offline and online, making cutting-edge technologies like AI, 3D/virtual reality programming, web and mobile app development accessible to young students via our custom-built technology platforms.
 
 Our alumni team of diverse 1000 and more changemakers have taught more than 50,000 students, worked with 200 and more schools nationwide, and have collaborated with institutions like Google, Adobe, IIM Bangalore, IIT Delhi, and more to inspire an entire generation of young makers and doers.
@@ -22,11 +22,11 @@ Other requirements:
 3. A stable internet connection with a speed of more than 15 Mbps
 4. A laptop with a clear web camera and a working microphone
 
-Skill(s) required
-J2EE
-JavaScript
-Online Teaching
-Python
+Skill(s) required <br>
+1.J2EE <br>
+2.JavaScript <br>
+3.Online Teaching <br>
+4.Python <br>
 
 Who can apply
 Only those candidates can apply who:
@@ -37,9 +37,9 @@ Only those candidates can apply who:
 4. have relevant skills and interests
 * Women wanting to start/restart their career can also apply.
 
-Perks
+Perks <br>
 Certificate
 
-Apply here : https://internshala.com/student/interstitial/application/teaching-coding-and-programming-work-from-home-job-internship-at-camp-k121664611737
+Apply <br> here : https://internshala.com/student/interstitial/application/teaching-coding-and-programming-work-from-home-job-internship-at-camp-k121664611737
 
 </details>

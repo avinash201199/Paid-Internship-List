@@ -189,6 +189,41 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
 </details>
 
+<details>
+  <summary>Cisco : Software Engineer – Cloud Application Development (Intern) - India UHR </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Solid fundamentals of Data Structures, Algorithms, Object oriented design and programming
+* Strong knowledge on Unix/Linux systems and Unix scripting
+* A good understanding of Cloud based application development (using Docker,Kubernetes, AWS services) and think about security and scalability from group up
+* Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies
+* Strong knowledge of programming and scripting languages like JAVA, python, Scala,GoLoang etc
+* Familiar with CI/CD tools namely GIT, GitHub, Jenkins, Drone etc
+* Possess creative problem solving skills and excellent troubleshooting/debugging skills
+*  Interest in User experience and User interface design and development
+* Familiar with more than one development environment, well-versed with at least one
+* Exposure to debugging application programs along with development and debugging tools
+* Strong testing inclination to ensure programs are comprehensive and well tested for all use cases
+
+##### Eligigibility 👨‍💻
+* Recent graduate or on your final year of studies towards a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Electrical Engineering, related majors such as Math, Physics
+* The requirement is for 2023 passout only.
+* Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies
+* Strong knowledge of programming and scripting languages
+* Possess creative problem-solving skills and excellent troubleshooting/debugging skills
+* 
+*  
+* 
+* 
+* 
+<br>
+
+[official website link](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Cloud-Application-Development-Intern-India-UHR/1377791?source=LinkedIn)
+</details>
+
 
   
   

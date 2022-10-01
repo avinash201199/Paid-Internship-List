@@ -61,6 +61,17 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
 </details>  
 
 <details>
+
+<summary>Dell hiring</summary>
+
+Role: Intern<br>
+Batch: 2023, 2024<br>
+Location: Bangalore<br>
+
+Link: https://jobs.dell.com/job/-/-/375/37151004304
+<details>
+
+</details>
 <summary> IBM - Software Developers</summary>
 <br>
 About <br>

@@ -74,7 +74,7 @@ Link: https://jobs.dell.com/job/-/-/375/37151004304
 </details>
   <summary>DTCC - SDE Intern </summary>
  <br>
- <h1>About</h1>
+  <h4>About</h4> <br>
  
 ##### Skills & Experience We're Looking For 👨‍💻
   
@@ -89,7 +89,7 @@ Link: https://jobs.dell.com/job/-/-/375/37151004304
 * Ability to design and code the right solutions starting with broadly defined problems.
 <br>
 
-[official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
+  [official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
 </details>
 
 <details>

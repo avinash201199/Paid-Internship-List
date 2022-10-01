@@ -48,3 +48,24 @@
 
 [Official website link](https://www.amazon.jobs/en/jobs/2213292/data-scientist-intern)
 </details>
+
+
+<details>
+  <summary>Cohere - Machine Learning Intern for January 2023 (Toronto, Palo Alto, San Francisco, London, Remote) </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Proficiency in Python and related ML frameworks such as Tensorflow, TF-Serving, JAX, and XLA/MLIR
+* Experience using large-scale distributed training strategies
+* Familiarity with autoregressive sequence models, such as Transformers
+* Strong communication and problem-solving skills
+* A demonstrated passion for applied NLP models and products
+* Bonus: experience writing kernels for GPUs using CUDA
+* Bonus: experience training on TPUs
+<br>
+
+[official website link](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b)
+</details>
+

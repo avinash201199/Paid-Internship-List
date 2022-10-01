@@ -68,7 +68,7 @@ Role: Intern<br>
 Batch: 2023, 2024<br>
 Location: Bangalore<br>
 
-Link: https://jobs.dell.com/job/-/-/375/37151004304
+Link: https://jobs.dell.com/job/-/-/375/37151004304 <br>
 <details>
 
 </details>

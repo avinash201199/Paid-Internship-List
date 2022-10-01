@@ -189,6 +189,7 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
 </details>
 
+
 <details>
   <summary>Cisco : Software Engineer – Cloud Application Development (Intern) - India UHR </summary>
  <br>
@@ -214,11 +215,8 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 * Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies
 * Strong knowledge of programming and scripting languages
 * Possess creative problem-solving skills and excellent troubleshooting/debugging skills
-* 
-*  
-* 
-* 
-* 
+* Experience in establishing and sustaining excellent relationships with the extended team
+*  Excellent verbal and written skills
 <br>
 
 [official website link](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Cloud-Application-Development-Intern-India-UHR/1377791?source=LinkedIn)

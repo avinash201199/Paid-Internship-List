@@ -163,6 +163,33 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 [official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
 </details>
 
+<details>
+  <summary>ClearFeed -Software Engineer Intern </summary>
+ <br>
+ <h1>About</h1>
+ ClearFeed aims to bridge the gap between multiple tools we use at our workplace and make it a lot easier to deal with them. Our small team is based out of Bangalore and welcoming in nature. We are backed by a leading Venture Capital firm and well-known Angels.
+ 
+##### Requirements
+  
+* Experience in Node JS is preferable
+* Willingness to learn new frameworks and languages where required
+* Interest and ability to work across the stack
+* Possess an extremely sound understanding of areas in the basic areas of Computer Science such as Algorithms, Data Structures, Object Oriented Design, Databases.
+* Must have good written and oral communication skills, be a fast learner and have the ability to adapt quickly to a fast-paced development environment.
+
+##### Responsibilities
+* Collaborate with other developers and help in development of current system & adding new features to the platform
+* Participate in design discussions with rest of the team
+* Deliver high quality unit testable code
+
+##### Hiring Process
+* 1 technical screening round and 1 live pair-programming round - mostly around Javascript and Problem Solving.
+
+
+[official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
+</details>
+
+
   
   
 

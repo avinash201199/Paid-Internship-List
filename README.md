@@ -621,7 +621,7 @@ https://www.merkleinc.com/emea/careers/all-openings/743999769680950<br>
 </details>
 
 <details>
-<summary> <b>Web Development Internship <b> </summary>
+<summary> <b>Putatoe Technologies-Web Development Internship <b> </summary>
 <br>
 About Putatoe Technologies Private Limited <br>
 We are an early-stage budding startup working on creating an application that would make all the daily household services reach the end-user without any inconvenience.

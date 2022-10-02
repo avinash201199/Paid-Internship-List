@@ -621,6 +621,37 @@ https://www.merkleinc.com/emea/careers/all-openings/743999769680950<br>
 </details>
 
 <details>
+<summary> <b>Putatoe Technologies-Web Development Internship <b> </summary>
+<br>
+About Putatoe Technologies Private Limited <br>
+We are an early-stage budding startup working on creating an application that would make all the daily household services reach the end-user without any inconvenience.
+Skill(s) required <br>
+1.Bootstrap <br>
+2.CSS <br>
+3.HTML <br>
+4.JavaScript <br>
+5.jQuery <br>
+6.ReactJS <br>
+
+Who can apply
+Only those candidates can apply who:
+
+1. Are available for the work from home job/internship
+2. Can start the work from home job/internship between 1st Oct'22 and 5th Nov'22
+3. Are available for duration of 4 months
+4. Have relevant skills and interests
+* Women wanting to start/restart their career can also apply.
+
+Perks <br>
+1. Certificate
+2. Letter of recommendation
+3. Flexible work hours
+
+Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-putatoe-technologies-private-limited1664639146
+
+</details>
+
+<details>
 <summary> HP - Summer Interns 2022 </summary>
 <br>
 About <br>

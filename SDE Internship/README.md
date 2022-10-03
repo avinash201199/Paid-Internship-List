@@ -3,13 +3,13 @@
 <br>
 About <br>
 
-
 Google is hiring for Summer Intern(Software Engineer)!
 
 Responsibilities of the Candidate:
+
 - Specific responsibilities vary by project area
-<br><br>
-BASIC REQUIREMENTS:
+  <br><br>
+  BASIC REQUIREMENTS:
 - Currently pursuing a Bachelor's/ Master's or Ph.D. degree in Computer Science or related technical field
 - Experience in software development in one or more general-purpose programming languages
 - Ability to speak and write in English fluently
@@ -18,18 +18,16 @@ BASIC REQUIREMENTS:
 - Knowledge of Unix/ Linux or Windows environments and APIs
 - Familiarity with TCP/ IP and network programming
 - Effective implementation skills (e.g., C++, Java, Python)
-<br>
-About Intership
+  <br>
+  About Intership
 - Join us for a 10-12 week paid internship that offers personal and professional development, and community-building. The Software Engineering Internship program will
- give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller
- projects that have universal appeal. Our engineers create, fix, extend, and scale the code to keep it working and to harden it against all the bad actors of the
- internet. You will work on software development projects to keep important business-critical systems up and running, from code-level troubleshooting of traffic
- anomalies to maintenance of our services; from monitoring and alerts to building automation infrastructure. Just imagine trying to design and build an automated
- testing system for something that's never been done before.
- website - https://unstop.com/internship/engineering-internship-summer-2023-google-417669
-<br>
-
-
+  give you an opportunity to work on complex computer science solutions, develop scalable, distributed software systems, and also collaborate on multitudes of smaller
+  projects that have universal appeal. Our engineers create, fix, extend, and scale the code to keep it working and to harden it against all the bad actors of the
+  internet. You will work on software development projects to keep important business-critical systems up and running, from code-level troubleshooting of traffic
+  anomalies to maintenance of our services; from monitoring and alerts to building automation infrastructure. Just imagine trying to design and build an automated
+  testing system for something that's never been done before.
+  website - https://unstop.com/internship/engineering-internship-summer-2023-google-417669
+  <br>
 
 <details>
 <summary>Amazon Software Development Engineer - Intern (WoW Applications)</summary>
@@ -74,24 +72,22 @@ Collaborate on scalability issues involving access to data and information<br>
 Utilize exposure to large-scale production software troubleshooting<br>
 Help maintain mission critical services<br>
 
- 
 Minimum Qualifications<br>
 
 Bachelor/Master of Engineering with major in: Computer Science/Mechanical/Civil/Electrical etc.<br>
 Full-time, 6-month commitment from June to July 2022<br>
 
- 
 Preferred Qualifications<br>
 
 Hands-on with Java and Node.js Stack<br>
 Exposure to web designing using modern Front End Framework such as React, Angular, Vue, etc<br>
 Exposure to DBMS such as mySQL, MongoDB, etc.<br>
-  
+
 Official Website- <br>
 https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-Developer--PDMS-DPM-Engineering-_22WD57844<br>
 <br>
 
-</details>  
+</details>
 
 <details>
 
@@ -102,7 +98,8 @@ Batch: 2023, 2024<br>
 Location: Bangalore<br>
 
 Link: https://jobs.dell.com/job/-/-/375/37151004304 <br>
-  <br>
+<br>
+
   </details>
 
 <details>
@@ -142,7 +139,7 @@ https://careers.ibm.com/job/15137642/<br>
 About <br>
 
 Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � � Preferred Qualifications: � � Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
- <br>
+<br>
 
 Official Website- <br>
 https://www.linkedin.com/jobs/view/2994083985/<br>
@@ -164,6 +161,7 @@ Experience with SQL database applications<br>
 Full COVID-19 vaccination is an essential requirement of this role. Candidates located in states that mandate COVID-19 booster doses must also comply with those state requirements. UnitedHealth Group will adhere to all federal, state and local regulations as well as all client requirements and will obtain necessary proof of vaccination, and boosters when applicable, prior to employment to ensure compliance<br>
 
 [official website link](https://www.linkedin.com/jobs/view/2992328274/)
+
 </details>
  
 <details>
@@ -185,8 +183,8 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 <br>
 
 [official website link](https://www.linkedin.com/jobs/view/2936952678/)
-</details>
 
+</details>
 
 <details>
   <summary>DTCC - SDE Intern </summary>
@@ -207,6 +205,7 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 <br>
 
 [official website link](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/205209/)
+
 </details>
 
 <details>
@@ -228,6 +227,7 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 <br>
 
 [official website link](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3291507061)
+
 </details>
 
   <summary>ClearFeed -Software Engineer Intern </summary>
@@ -244,15 +244,17 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 * Must have good written and oral communication skills, be a fast learner and have the ability to adapt quickly to a fast-paced development environment.
 
 ##### Responsibilities
-* Collaborate with other developers and help in development of current system & adding new features to the platform
-* Participate in design discussions with rest of the team
-* Deliver high quality unit testable code
+
+- Collaborate with other developers and help in development of current system & adding new features to the platform
+- Participate in design discussions with rest of the team
+- Deliver high quality unit testable code
 
 ##### Hiring Process
-* 1 technical screening round and 1 live pair-programming round - mostly around Javascript and Problem Solving.
 
+- 1 technical screening round and 1 live pair-programming round - mostly around Javascript and Problem Solving.
 
 [official website link](https://clearfeed.freshteam.com/jobs/Qc-tv46N596-/software-engineer-intern?ft_source=5000516891&ft_medium=5000462114)
+
 </details>
 
 <details>
@@ -264,14 +266,13 @@ We look for the risk-takers, the collaborators, the inspired and the inspiration
 The conversation starts here. If this role matches your ambitions and skillset, let's get started with your application. Take a look at our other open positions too. Our many opportunities can lead to infinite possibilities.
 
 Design/Propose enhancements for targeted Computer Vision applications.
- 
+
 <br>
 
 [official website link](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Bangalore/Trainee-Software-Engineer-6_JR-109940)
+
 </details>
 
-
-<<<<<<< HEAD
 <details>
   <summary>Cisco : Software Engineer – Cloud Application Development (Intern) - India UHR </summary>
  <br>
@@ -292,24 +293,19 @@ Design/Propose enhancements for targeted Computer Vision applications.
 * Strong testing inclination to ensure programs are comprehensive and well tested for all use cases
 
 ##### Eligigibility 👨‍💻
-* Recent graduate or on your final year of studies towards a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Electrical Engineering, related majors such as Math, Physics
-* The requirement is for 2023 passout only.
-* Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies
-* Strong knowledge of programming and scripting languages
-* Possess creative problem-solving skills and excellent troubleshooting/debugging skills
-* Experience in establishing and sustaining excellent relationships with the extended team
-*  Excellent verbal and written skills
-<br>
+
+- Recent graduate or on your final year of studies towards a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, Electrical Engineering, related majors such as Math, Physics
+- The requirement is for 2023 passout only.
+- Solid understanding of computer science fundamentals and software engineering with an aptitude for learning new technologies
+- Strong knowledge of programming and scripting languages
+- Possess creative problem-solving skills and excellent troubleshooting/debugging skills
+- Experience in establishing and sustaining excellent relationships with the extended team
+- Excellent verbal and written skills
+  <br>
 
 [official website link](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-Cloud-Application-Development-Intern-India-UHR/1377791?source=LinkedIn)
+
 </details>
-
-
-  
-  
-=======
->>>>>>> c6ce017a15d481abc4965fbbd4ca525e9a66aed2
-
 
 <details>
   <summary>Software Engineer Intern- Shadowing AI </summary>
@@ -330,4 +326,5 @@ Design/Propose enhancements for targeted Computer Vision applications.
 <br>
 
 [official website link](https://shadowing.ai/hiring/640e46770f056c74-software-engineer-intern)
+
 </details>

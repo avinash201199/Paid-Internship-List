@@ -328,3 +328,37 @@ Design/Propose enhancements for targeted Computer Vision applications.
 [official website link](https://shadowing.ai/hiring/640e46770f056c74-software-engineer-intern)
 
 </details>
+
+<details>
+<summary> ParchAI SDE Intern</summary>
+
+## About
+
+ParchAI is hiring for SDE Intern
+
+## Responsibilities of the Candidate:
+
+- Need a javascript developer for developing various applications in our new tracking system. The skills we are looking for are mentioned below:
+  <br><br>
+
+## BASIC REQUIREMENTS:
+
+- Basic understanding of the MERN stack.
+- Sound knowledge of HTML and CSS and working of the DOM.
+- Sound knowledge of Javascript concepts and data structures.
+- Know how to develop web-apis in NodeJs.
+- Good problem solving skills
+- Good to have :
+  - working knowledge of Cloud functions namely in AWS Lambda or Google Cloud functions.
+  - Experience in Serverless framework.
+  - knowledge in developing REST API using Node and Express.
+  - knowledge in working with MySQL and Mongo databases.
+    <br><br>
+
+## About Intership
+
+- The intern will be expected to intern for 3 months in ParchAI. The interns are expected to get hands on experience on latest technologies used in the industry and have a internship certificate on completion of the tenure.
+  website - https://parchai.io/
+  <br>
+- For applying, send your CV at
+  - hr@parchai.io

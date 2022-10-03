@@ -15,7 +15,18 @@ Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/bl
 
 
 <hr>
+<details>
+<summary> Cuvette Internship Programs </summary>
+<br>
+About <br>
+Cuvette (pronounced as Q-vet) is the #1 way for College students & Early Graduates to get Internships, Jobs in Software, Management, Media, etc.<br>
+<br>
 
+Official Website- <br>
+https://www.cuvette.tech/<br>
+<br>
+
+</details>
 <details>
 <summary> Amazon- Programmer Analyst Intern </summary>
 <br>

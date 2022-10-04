@@ -705,22 +705,42 @@ https://jobs.hp.com/jobdetails/15465850/<br>
 <br>
  
 </details>
-  <details>
-<summary>Eloo-Product designer</summary>
-<br>
-About <br>
-https://drive.google.com/file/d/1ReoirzAKspKoU8TZcYkf_N34YBYY92eu/view?usp=sharing <br>
-
-Roles Offered <br>
-
-Product Designer, Developer, IOT expert, whoever wants to work on creating a smart toilet seat, fundraising. 
+ 
+ 
+ 
+ 
+ <details>
+  <summary>Megastores.com- Software Developer</summary>
  <br>
-
-Official Website- <br>
-https://www.linkedin.com/in/diptendu-roy-b494b936/?originalSubdomain=in<br>
+ 
+### About
+ 
+Mregastores.com is IIT Mandi catalyst incubated, big idea summit best entrepreneur . Milestones achieved :7000+
+products, 450 sellers and more.
+ 
+### Duration
+ 2-3 months
+ 
+### Location
+  Remote
+  ###Skills Required
+-BS/MS degree in Computer Science, Engineering or a related subject
+-Proven related working experience in software development
+-Related working experience in iOS development
+-Have published one or more iOS apps in the app store
+-A deep familiarity with Swift
+-Experience working with iOS frameworks such as Core Data, Core Animation, Core Graphics and
+Core Text
+-Experience with third-party libraries and APIs
+-Working knowledge of the general mobile landscape, architectures, trends, and emerging
+technologies
+-Solid understanding of the full mobile development life cycle
+  [more info](https://drive.google.com/file/d/14NdTpW8MNezzwjKLM0JK7v5JI_TfkCZ0/view)
+[official website link](http://megastores.com)
 <br>
-
+ 
 </details>
+  
 
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

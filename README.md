@@ -29,6 +29,19 @@ https://www.cuvette.tech/<br>
 </details>
 
 <details>
+<summary> Internshala Internship Programs </summary>
+<br>
+About <br>
+Internshala is India's no.1 internship and training platform with 40000+ paid internships in Engineering, MBA, media, law, arts, and other streams.<br>
+<br>
+
+Official Website- <br>
+https://internshala.com//<br>
+<br>
+
+</details>
+
+<details>
 <summary> Angel Internship Programs </summary>
 <br>
 About <br>

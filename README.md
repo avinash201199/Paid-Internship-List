@@ -764,6 +764,24 @@ It is an international organization providing cutting edge work experience for s
  
 [Official IASTE website](https://iaeste.org/internships)
 </details>
+<details>
+<summary> YEXT - Software Engineer Summer Intern
+2023 </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+The Yext Professional Service team is looking for Full Stack Software Engineers to join a fast-paced, cross-functional team working to deliver customized Yext products for our largest enterprise customers. ProServ SWEs work with engagement managers and designers to deliver customized Yext Pages, Data Integrations, Dashboards, and other solutions for Fortune 500 level clients. Our tech stack includes Closure Templates (soy), SCSS, ES6 JavaScript, Node.js, Go, and Java. We take pride in our ability to tackle any engineering challenge and keep pace with the ever-changing needs of our clients and the market. We value engineers that have a passion for technology (particularly front end development), display a willingness to jump in, and are excited to be part of a cross-functional, client-facing team. <br>
 
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+
+Official Website- <br>
+https://boards.greenhouse.io/yext/jobs/4507905<br>
+<br>
+
+</details>
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
 

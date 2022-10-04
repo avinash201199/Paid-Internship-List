@@ -42,6 +42,19 @@ https://angel.co/jobs<br>
 </details>
 
 <details>
+<summary> MustakBill Internship Programs </summary>
+<br>
+About <br>
+Mustakbil Corner is one of the best opportunities providing network for youth to browse the latest scholarships, Internships, Jobs, and other amazing fields.<br>
+<br>
+
+Official Website- <br>
+https://mustakbilcorner.com/category/internships/<br>
+<br>
+
+</details>
+
+<details>
 <summary> Amazon- Programmer Analyst Intern </summary>
 <br>
 About <br>

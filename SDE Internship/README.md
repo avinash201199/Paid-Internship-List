@@ -271,7 +271,7 @@ Design/Propose enhancements for targeted Computer Vision applications.
 </details>
 
 
-<<<<<<< HEAD
+
 <details>
   <summary>Cisco : Software Engineer – Cloud Application Development (Intern) - India UHR </summary>
  <br>
@@ -307,8 +307,7 @@ Design/Propose enhancements for targeted Computer Vision applications.
 
   
   
-=======
->>>>>>> c6ce017a15d481abc4965fbbd4ca525e9a66aed2
+
 
 
 <details>

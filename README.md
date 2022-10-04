@@ -705,6 +705,22 @@ https://jobs.hp.com/jobdetails/15465850/<br>
 <br>
  
 </details>
+  <details>
+<summary>Eloo-Product designer</summary>
+<br>
+About <br>
+https://drive.google.com/file/d/1ReoirzAKspKoU8TZcYkf_N34YBYY92eu/view?usp=sharing <br>
+
+Roles Offered <br>
+
+Product Designer, Developer, IOT expert, whoever wants to work on creating a smart toilet seat, fundraising. 
+ <br>
+
+Official Website- <br>
+https://www.linkedin.com/in/diptendu-roy-b494b936/?originalSubdomain=in<br>
+<br>
+
+</details>
 
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

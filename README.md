@@ -743,7 +743,27 @@ https://jobs.hp.com/jobdetails/15465850/<br>
 <br>
  
 </details>
+<details>
+<summary>International Association for the Exchange of Student for Technical Experience</summary>
+<br>
 
+### About
+
+It is an international organization providing cutting edge work experience for students abroad through paid internships; Students take up internships for 8 weeks to 18 months.
+
+### Ideal candidate
+
+ - You must be between the ages of 19 and 30.
+ - You must speak good English.
+ - You must be currently enrolled Full-time in a Bachelor’s or Master’s degree at the time of application.
+### Cost/funding for participants
+
+ - A cost of living allowance that will at least cover food, accommodation and travel to and from work
+ - The exact amount is determined by the cost of living in the country and the Employer.
+ - You will have to pay for your own travel costs to your receiving country and for personal insurance for the duration of the traineeship.
+ 
+[Official IASTE website](https://iaeste.org/internships)
+</details>
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
 

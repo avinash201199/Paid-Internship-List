@@ -42,6 +42,19 @@ https://angel.co/jobs<br>
 </details>
 
 <details>
+<summary> Deep Learning & Neural Network internship </summary>
+<br>
+About <br>
+Doctunes Audiotech Private Limited is a SaaS company that has the vision to deliver the world's enriching experience of listening and understanding their documents by avoiding the problem of the language barrier.<br>
+<br>
+
+Official Website- <br>
+https://internshala.com/internship/detail/deep-learning-neural-network-work-from-home-job-internship-at-doctunes-audiotech-private-limited1664866451<br>
+<br>
+
+</details>
+
+<details>
 <summary> MustakBill Internship Programs </summary>
 <br>
 About <br>

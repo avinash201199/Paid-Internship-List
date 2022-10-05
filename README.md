@@ -171,6 +171,46 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
 <br>
 
 </details>  
+<details>
+<summary> 3D Game Development work from home job/internship at Camp K12</summary>
+<br> Important Inforamtion<br>
+Duration : 2 months
+Stipend : Rs 20,000
+Apply By : 11 October,22
+<br>About Camp K12<br>
+<p>Camp K12 is an ed-tech startup founded by an MIT and Harvard computer science graduate and ex-CEO of Apple India to bring coding and 21st-century skills to students from age groups 6-18 around the globe. We were India's first coding boot camp for school kids in 2011. Today, we are leading the K-12 education space, both offline and online, by making cutting-edge techs like AI, 3D/virtual reality programming, and web & mobile app development and making it accessible to young students via our custom-built technology platforms. Our alumni team of diverse 1000+ changemakers has taught over 50,000+ students, worked with 200+ schools nationwide, and collaborated with institutions like Google, Adobe, IIM Bangalore, IIT Delhi, and more to inspire an entire generation of young makers and doers. Want to make a dent in the education sector? Come and be a part of us, get trained by TFI alumni and Google instructors, and join the movement.</p>
+<br> About the work from home job/internship <br>
+
+Selected intern's day-to-day responsibilities include:
+
+1. Ideate and create games on an in-house block-based coding platform
+2. Understand the game design, mechanics and enhance the functionalities of the game after receiving feedback
+3. Make changes and debug the code to make games for kids
+
+<br? Skills Required <br>
+<ul>
+    <li>Animation</li>
+    <li>AutoCAD</li>
+    <li>Blender 3D</li>
+    <li>Design Thinking</li>
+    <li>Unity 3D</li>
+    <li>Unity Engine</li>
+</ul>
+<br>Who Can Apply ? <br>
+Only those candidates can apply who:
+
+1. are available for the work from home job/internship
+
+2. can start the work from home job/internship between 26th Sep'22 and 31st Oct'22
+
+3. are available for duration of 2 months
+
+4. have relevant skills and interests
+
+* Women wanting to start/restart their career can also apply.
+<a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a>
+
+</details>
 
 <details>
  <summary>

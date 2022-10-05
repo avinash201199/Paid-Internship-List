@@ -208,7 +208,7 @@ Only those candidates can apply who:
 4. have relevant skills and interests
 
 * Women wanting to start/restart their career can also apply.
-<a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a>
+<br><a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a><br>
 
 </details>
 

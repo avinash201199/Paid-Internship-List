@@ -42,6 +42,19 @@ https://angel.co/jobs<br>
 </details>
 
 <details>
+<summary> Deep Learning & Neural Network internship </summary>
+<br>
+About <br>
+Doctunes Audiotech Private Limited is a SaaS company that has the vision to deliver the world's enriching experience of listening and understanding their documents by avoiding the problem of the language barrier.<br>
+<br>
+
+Official Website- <br>
+https://internshala.com/internship/detail/deep-learning-neural-network-work-from-home-job-internship-at-doctunes-audiotech-private-limited1664866451<br>
+<br>
+
+</details>
+
+<details>
 <summary> MustakBill Internship Programs </summary>
 <br>
 About <br>
@@ -172,6 +185,46 @@ Exposure to DBMS such as mySQL, MongoDB, etc.<br>
 Official Website- <br>
 https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-Developer--PDMS-DPM-Engineering-_22WD57844<br>
 <br>
+
+</details>  
+<details>
+<summary> 3D Game Development work from home job/internship at Camp K12</summary>
+<br> Important Inforamtion<br>
+Duration : 2 months
+Stipend : Rs 20,000
+Apply By : 11 October,22
+<br>About Camp K12<br>
+<p>Camp K12 is an ed-tech startup founded by an MIT and Harvard computer science graduate and ex-CEO of Apple India to bring coding and 21st-century skills to students from age groups 6-18 around the globe. We were India's first coding boot camp for school kids in 2011. Today, we are leading the K-12 education space, both offline and online, by making cutting-edge techs like AI, 3D/virtual reality programming, and web & mobile app development and making it accessible to young students via our custom-built technology platforms. Our alumni team of diverse 1000+ changemakers has taught over 50,000+ students, worked with 200+ schools nationwide, and collaborated with institutions like Google, Adobe, IIM Bangalore, IIT Delhi, and more to inspire an entire generation of young makers and doers. Want to make a dent in the education sector? Come and be a part of us, get trained by TFI alumni and Google instructors, and join the movement.</p>
+<br> About the work from home job/internship <br>
+
+Selected intern's day-to-day responsibilities include:
+
+1. Ideate and create games on an in-house block-based coding platform
+2. Understand the game design, mechanics and enhance the functionalities of the game after receiving feedback
+3. Make changes and debug the code to make games for kids
+
+<br? Skills Required <br>
+<ul>
+    <li>Animation</li>
+    <li>AutoCAD</li>
+    <li>Blender 3D</li>
+    <li>Design Thinking</li>
+    <li>Unity 3D</li>
+    <li>Unity Engine</li>
+</ul>
+<br>Who Can Apply ? <br>
+Only those candidates can apply who:
+
+1. are available for the work from home job/internship
+
+2. can start the work from home job/internship between 26th Sep'22 and 31st Oct'22
+
+3. are available for duration of 2 months
+
+4. have relevant skills and interests
+
+* Women wanting to start/restart their career can also apply.
+<br><a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a><br>
 
 </details>
 
@@ -774,4 +827,44 @@ https://jobs.hp.com/jobdetails/15465850/<br>
  
 </details>
 
+<details>
+<summary>International Association for the Exchange of Student for Technical Experience</summary>
+<br>
+
+### About
+
+It is an international organization providing cutting edge work experience for students abroad through paid internships; Students take up internships for 8 weeks to 18 months.
+
+### Ideal candidate
+
+ - You must be between the ages of 19 and 30.
+ - You must speak good English.
+ - You must be currently enrolled Full-time in a Bachelor’s or Master’s degree at the time of application.
+### Cost/funding for participants
+
+ - A cost of living allowance that will at least cover food, accommodation and travel to and from work
+ - The exact amount is determined by the cost of living in the country and the Employer.
+ - You will have to pay for your own travel costs to your receiving country and for personal insurance for the duration of the traineeship.
+ 
+[Official IASTE website](https://iaeste.org/internships)
+</details>
+<details>
+<summary> YEXT - Software Engineer Summer Intern
+2023 </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+The Yext Professional Service team is looking for Full Stack Software Engineers to join a fast-paced, cross-functional team working to deliver customized Yext products for our largest enterprise customers. ProServ SWEs work with engagement managers and designers to deliver customized Yext Pages, Data Integrations, Dashboards, and other solutions for Fortune 500 level clients. Our tech stack includes Closure Templates (soy), SCSS, ES6 JavaScript, Node.js, Go, and Java. We take pride in our ability to tackle any engineering challenge and keep pace with the ever-changing needs of our clients and the market. We value engineers that have a passion for technology (particularly front end development), display a willingness to jump in, and are excited to be part of a cross-functional, client-facing team. <br>
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+
+Official Website- <br>
+https://boards.greenhouse.io/yext/jobs/4507905<br>
+<br>
+
+</details>
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

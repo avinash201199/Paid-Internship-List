@@ -895,7 +895,7 @@ https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
 
 </details>
 
- <details>
+<details>
 <summary> Fresh Prints - Remote Full Stack Web Development Internship </summary>
 <br>
 About <br>
@@ -909,31 +909,22 @@ Those are the questions the members of our cross-functional Growth Team work on 
 You’ll touch every component of the product development process. You’ll work with our developers, UX/UI designers, and QA team to understand users, scope out new tech, prioritize features, set timelines, and write great code. 
 
 This is a hands on internship and we expect you to learn to work at the same level as our full time developers. It’s perfect for students who want to do real work. As Fresh Prints grows, you will too. For the right person, this role offers an uncapped opportunity. Great interns will be offered full time positions at the end of their term. 
-  
+
 #### Responsibilities:
- 
-Engage in high-level conversations about business strategy and the role tech plays in it 
 
-Write well-designed, testable, and efficient code that powers our application 
+- Engage in high-level conversations about business strategy and the role tech plays in it 
+- Write well-designed, testable, and efficient code that powers our application 
+- Write specs and do planning for everything we build 
+- Conduct application analysis, testing, and debugging 
+- Diligently document code to keep it clean and transparent 
+- Ensure cross-browser and device compatibility <br>
 
-Write specs and do planning for everything we build 
-
-Conduct application analysis, testing, and debugging 
-
-Diligently document code to keep it clean and transparent 
-
-Ensure cross-browser and device compatibility <br>
-
-Education and Experience Required:<br>
-Currently a student and on track to graduate in the spring of 2023 
-
-Basic knowledge of HTML, CSS, and Javascript 
-
-Comfort with Angular and NodeJS is a big plus 
-
-Have studied object-oriented and functional programming
-
-Perfect English fluency<br>
+<br>Education and Experience Required:<br>
+- Currently a student and on track to graduate in the spring of 2023 
+- Basic knowledge of HTML, CSS, and Javascript 
+- Comfort with Angular and NodeJS is a big plus 
+- Have studied object-oriented and functional programming
+- Perfect English fluency<br>
 
 
 Official Website- <br>

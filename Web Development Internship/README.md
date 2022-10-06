@@ -41,6 +41,7 @@ Perks <br>
 Certificate
 
 Apply <br> here : https://internshala.com/student/interstitial/application/teaching-coding-and-programming-work-from-home-job-internship-at-camp-k121664611737
+  <br>and here : https://in.indeed.com/jobs?q=Web+Developer+Paid+Internship&l=India&from=mobRdr&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt&redirected=1&vjk=e916e0433029029d
 
 </details>
 

@@ -932,4 +932,67 @@ Apply <br> here : https://internshala.com/internship/detail/web-development-work
 
 </details>
  
+<details>
+<summary> Content Writing Intern </summary>
+<br>
+About <br>
+####About the job
+CoConnexion is seeking a committed content writer to write blog posts, articles, product descriptions, social media posts, and content for the corporate website. The content writer's tasks include analyzing analytics to alter material as needed, updating the firm's website on a regular basis, and pitching pieces to various third-party platforms to promote the corporate blog.
+
+When developing material, you should also be able to follow editorial requirements. You should stay up to date on the latest SEO tactics to be a great content writer. Finally, a top-performing Content Writer should be able to contribute to the creation of reader engagement tactics.
+
+
+Roles & responsibilities of Content Writing Intern:
+
+Content creation for blogs, articles, product descriptions, social media, videos, email marketing campaigns, and the company's website
+Assisting the marketing team with the creation of content for ad campaigns.
+In order to create original material, conducting in-depth research on industry-related issues is required.
+Checking for flaws and inconsistencies in the text. (can be removed)
+Improving the readability of existing information by editing and polishing it.
+To improve traffic to the company's website, do keyword research and use SEO best practices.
+Creating catchy headlines, body text, and quality writing pieces that will pique the interest of the intended audience, attract customers and boost brand awareness.
+Identifying client demands and proposing new content to fill in the gaps in the company's existing content.
+Coordinate with marketing and design teams to illustrate articles.
+
+Pre-requisites:
+
+A bachelor's degree in communications, marketing, English, journalism, or a closely related subject is required.
+Experience with content writing or copywriting.
+Familiar with Content management systems.
+Mastered in all Microsoft Office apps.
+Exceptional writing and editing abilities with strong attention to detail.
+Working in a fast-paced atmosphere is a must.
+Knowledge/experience in writing search-engine-optimized content
+The capacity to work on numerous tasks at the same time. Or Ability to work on multiple projects with different objectives simultaneously
+Communication abilities that work.
+
+Perks & benefits:
+
+Chance to apply your learnings from class to the real workplace.
+A safe atmosphere where errors are anticipated provides a wide scope of improvements.
+Makes college graduates and freshers stand out with work experiences.
+Learn a lot about your skills and limitations.
+Boost your confidence and build networks.
+The qualitative approach of learning from industry experts.
+After completion, you will receive a certificate.
+Performance-based letter of recommendation
+Prospects for the future (subjected to exceptional performance)
+For your encouragement, we appreciate your outstanding performance to give you recognition for your contribution to the team.
+
+
+
+Profile: Part-time internship
+
+Location: Remote
+
+Duration: 2 months
+<br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48rM44KB8%2BA9a5LLNz%2F00Q%3D%3D&trackingId=4AFOYRue2fOYLTlk5%2FQQqQ%3D%3D<br>
+<br>
+
+</details>
+ 
+ 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

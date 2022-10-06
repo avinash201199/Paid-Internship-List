@@ -365,6 +365,34 @@ https://jobs.apple.com/en-us/details/200300095/software-development-intern<br>
 
 </details>
 
+
+<details>
+ <summary> Goldman Sachs Summer Internship</summary>
+ <br>
+ <h1>About</h1>
+ Make things possible this summer at Goldman Sachs
+
+Our Summer Analyst Internship is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of one of our divisions.
+
+As a participant, you will:
+
+Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firm
+Receive division-specific training designed to help you succeed
+Have the opportunity to work on real responsibilities alongside fellow interns and our people
+
+Date: Summer 2022
+Location: Bengaluru
+Eligibility: Candidates currently pursuing a college or university degree and is usually undertaken during the second penultimate year of study.
+<br>
+
+<br>
+
+Official Website- <br>
+https://www.goldmansachs.com/careers/students/programs/india/summer-analyst-program.html<br>
+<br>
+
+</details>
+
 <details>
  <summary> IBM Business Development Internship – Entry Level</summary>
  <br>

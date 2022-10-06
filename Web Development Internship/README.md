@@ -121,3 +121,70 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-disruptive-consultancy-services-private-limited-development-monitors-india1664980247
 
 </details>
+<details>
+<summary> <b>Python Backend Development work from home job/internship at Simmi Foundation Organization<b> </summary>
+<br>
+About Simmi Foundation Organization<br>
+Simmi Foundation is a not-for-profit, non-governmental organization that aims to work for the upliftment and betterment of society. We work on creating awareness about environmental and social issues through educational seminars and interactive classroom sessions. Our focus is on creating awareness among the youth and the younger generation. We also focus on social issues, working towards educating the younger generation about burning social problems, and talking about topics generally considered taboo in our society, for instance, menstruation, malnutrition, and safety measures for women during pregnancy.<br>
+  
+  About the work from home job/internship<br>
+Selected intern's day-to-day responsibilities include:<br>
+1. Work on the development and testing of new system components/services, code and design reviews<br>
+2. Work on programming the backend for a website on Django for the backend and React for the front end, integrating using Django and Rest API<br>
+3. Design databases and ensure their stability, reliability, and performance<br>
+4. Design, create and implement database systems based on the end user's requirements<br>
+5. Improve web/application performances<br>
+6. Prepare documentation for database applications with expertise in Python in backend development<br>
+
+Note:<br>
+1. Candidates having prior experience will be given preference in selection.<br>
+2. We provide flexible work timings.<br>
+3. This is an opportunity to work with us on live projects.<br>
+  
+Skill(s) required<br>
+CSS Django GitHub HTML Python REST API<br>
+
+  Who can apply<br>
+Only those candidates can apply who:<br>
+1. are available for the work from home job/internship<br>
+2. can start the work from home job/internship between 5th Oct'22 and 9th Nov'22<br>
+3. are available for duration of 3 months<br>
+4. have relevant skills and interests<br>
+* Women wanting to start/restart their career can also apply.<br>
+
+Perks<br>
+*Certificate *Letter of recommendation *Flexible work hours *5 days a week<br>
+  
+  Number of openings<br>
+4<br>
+  Apply Here:https://internshala.com/student/interstitial/application/python-backend-development-work-from-home-job-internship-at-simmi-foundation-organization1664961629
+</details><br>
+  
+<details>
+<summary> <b>Web Development Internship in Mumbai at Apex Group Of Companies </summary>
+<br>
+  About the internship<br>
+1.Job Responsibilities<br>
+2.Build and improve the existing Website basis the brief given.<br>
+3.Must have a knack for design elements and plugin usage on Wordpress .<br>
+4.Create website layout/user interface by using standard HTML/CSS practices<br>
+5.Integrate data from various back-end services and databases<br>
+6.Gather and refine specifications and requirements based on technical needs<br>
+7.Create and maintain software documentation<br>
+8.Be responsible for maintaining, expanding, and scaling our site<br>
+9.Stay plugged into emerging technologies/industry website trends and apply them into operations and activities<br>
+10.Coordinate with Marcom to match visual design intent<br>
+
+  Who can apply<br>
+Only those candidates can apply who:<br>
+1. are available for full time (in-office) internship<br>
+2. can start the internship between 26th Sep'22 and 31st Oct'22<br>
+3. are available for duration of 6 months<br>
+4. are from or open to relocate to Mumbai and neighboring cities<br>
+5. have relevant skills and interests<br>
+
+Number of openings<br>
+1<br>
+  Apply Here:https://internshala.com/student/interstitial/application/web-development-internship-in-mumbai-at-apex-group-of-companies1664192078
+</details>
+  

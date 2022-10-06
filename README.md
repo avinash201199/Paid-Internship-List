@@ -932,4 +932,17 @@ Apply <br> here : https://internshala.com/internship/detail/web-development-work
 
 </details>
  
+ <details>
+<summary>PhonePe Tech Scholars Program</summary>
+<br>
+About <br>
+An amazing opportunity for women developers to accelerate their tech career and land software developer jobs at PhonePe. <br>
+Who can apply<br>
+Girl Students graduating from a Bachelors in 2023 (Final year)<br>
+
+Official Website- <br>
+https://challenge24.org/](https://www.crio.do/phonepe-tech-scholars-program/?utm_source=linkedin&utm_medium=inmail-r&li_fat_id=11de18f8-f74d-41bd-87a0-b0afa0c49839)
+<br>
+</details>
+ 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

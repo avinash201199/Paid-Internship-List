@@ -931,5 +931,46 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-disruptive-consultancy-services-private-limited-development-monitors-india1664980247
 
 </details>
- 
+ <details>
+<summary>  EFG | Efforts For Good
+ opportunity for Community Management role: DMs and Telegram + Partnerships. </summary>
+<br>
+About <br>
+Growth team in EFG (Efforts For Good) is looking for talented       hashtag
+      #interns
+ for 3 months. At the end of the three months internship, a stipend can range from Rs 20k - 25k upon your performance shall be provided along with a certificate. 
+
+*Roles and responsibilities:
+
+1. Manage telegram community with creative posts/interaction/offline community activation etc.
+
+2. Trained in Canva to create posts and short ppts that can be sent to groups or to organizations as and when required.
+
+3. Good communication and articulation skill to be able to write and send out emails to partners/ influencers /corporate offices etc.
+
+4. Should be able to take calls/zoom meets with telegram community
+
+5. Receptive to training on how to conduct presentations for community awareness.
+
+*The intern must have: 
+- People's skill 
+- Good communication skill 
+- Presence of mind,
+- Proactive and involved
+- Team player
+- Driven to build something from the scratch
+- Love social media to track down trends, gauge what youngsters today like.
+- Creativity
+- Talkative
+Preferred work location: Bangalore (Remote)
+Last date to apply: 14th August 2022
+If you are interested in this opportunity, send your resumes and work samples on email to: grow@myefg.org
+Thank you for your time. <br>
+<br>
+
+Official Website- <br>
+https://www.linkedin.com/feed/update/urn:li:activity:6961988632354197504/<br>
+<br>
+
+ </details>
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

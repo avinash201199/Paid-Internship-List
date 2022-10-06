@@ -82,3 +82,42 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-putatoe-technologies-private-limited1664639146
 
 </details>
+
+
+
+<details>
+<summary> <b>Web Development work from home job/internship at Disruptive Consultancy Services Private Limited (Development Monitors India)<b> </summary>
+<br>
+About Disruptive Consultancy Services Private Limited (Development Monitors India) <br>
+As one of the Prime Subcontractors of the World Bank, German Bank and other donor organizations, development monitors has intensive experience in the field of international development and third-party monitoring. Along with that, DM has a product development branch that deals with drone development, post-processing of captured imagery, and development of software to accomplish those tasks. 
+
+About the work from home job/internship
+Selected intern's day-to-day responsibilities include:
+
+1. Work development of GIS web application using ThreeJS
+2. Work on the development of online surveys in KoBoToolbox using xlsForms and xlsFormat
+3. Work on the day-to-day management of IT as the IT admin
+
+
+Skill(s) required <br>
+1.Bootstrap <br>
+2.CSS <br>
+3.HTML <br>
+4.JavaScript <br>
+
+Who can apply
+Only those candidates can apply who:
+
+1. are available for the work from home job/internship
+2. can start the work from home job/internship between 5th Oct'22 and 9th Nov'22
+3. are available for duration of 6 months
+4. have relevant skills and interests
+
+Perks <br>
+1. 5 days a week
+2. Letter of recommendation
+3. Flexible work hours
+
+Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-disruptive-consultancy-services-private-limited-development-monitors-india1664980247
+
+</details>

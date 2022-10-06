@@ -4,15 +4,15 @@
 
 ### How to contribute 😎<br>
 
-You can contribute in many ways in this repository 
+You can contribute in many ways in this repository
+
 1. If you are beginner then you can contribute by improving the structure of the repository. <br>
 2. Design the website for this repository (HTML, CSS & JS). <br>
 3. Add more paid internship into the list which are not present. <br>
 
-Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/blob/main/CONTRIBUTING.md) file to get started 
+Check [Contributing.md](https://github.com/avinash201199/Paid-Internship-List/blob/main/CONTRIBUTING.md) file to get started
 
 #### Note- Before contributing please create an issue first so that I can assign you and you can start working on it.
-
 
 <hr>
 <details>
@@ -56,6 +56,19 @@ https://angel.co/jobs<br>
 </details>
 
 <details>
+<summary> Deep Learning & Neural Network internship </summary>
+<br>
+About <br>
+Doctunes Audiotech Private Limited is a SaaS company that has the vision to deliver the world's enriching experience of listening and understanding their documents by avoiding the problem of the language barrier.<br>
+<br>
+
+Official Website- <br>
+https://internshala.com/internship/detail/deep-learning-neural-network-work-from-home-job-internship-at-doctunes-audiotech-private-limited1664866451<br>
+<br>
+
+</details>
+
+<details>
 <summary> MustakBill Internship Programs </summary>
 <br>
 About <br>
@@ -80,15 +93,16 @@ who will be responsible for working with business, operations to gather ship car
   Divisional Software projects, updating/enhancing our current software, automation of manual configuration processes 
   and documentation of our systems.<br>
 
-Your solutions will impact our customers directly! This job requires you to constantly hit the ground 
+Your solutions will impact our customers directly! This job requires you to constantly hit the ground
 running and your ability to learn quickly and work on disparate and overlapping tasks will define your success.
-The ideal candidate must be detail oriented, have superior verbal and written communication skills, strong organizational skills, 
+The ideal candidate must be detail oriented, have superior verbal and written communication skills, strong organizational skills,
 able to juggle multiple tasks at once, able to work independently and can maintain professionalism under pressure.
- You must be able to identify problems before they happen and implement solutions that detect and prevent outages. 
- You must be able to accurately prioritize projects, make sound judgments, work to improve the customer experience, 
- and get the right things done. <br>
+You must be able to identify problems before they happen and implement solutions that detect and prevent outages.
+You must be able to accurately prioritize projects, make sound judgments, work to improve the customer experience,
+and get the right things done. <br>
 
 #### BASIC QUALIFICATIONS <br>
+
 - 0-3 years overall development/technical support experience.<br>
 - Strong object oriented development knowledge in C++ and/or Java.<br>
 - Knowledge of the UNIX/Linux operating system.<br>
@@ -97,6 +111,7 @@ able to juggle multiple tasks at once, able to work independently and can mainta
 - Documentation skills<br>
 
 #### PREFERRED QUALIFICATIONS <br>
+
 - 0-3 years overall development/technical support experience.<br>
 - Strong object oriented development knowledge in C++ and/or Java.<br>
 - Knowledge of the UNIX/Linux operating system.<br>
@@ -124,9 +139,10 @@ If this opportunity interests you, apply and come chart your own path at Amazon.
 
 By applying to this position your application will be considered for all locations we hire for in India. This includes but is not limited to Bengaluru, Chennai, Hyderabad, Delhi and Pune.<br>
 Amazon internships are full-time (40 hours/week) for eight consecutive weeks (two months) with start dates between April and May 2021 or six months (as per university academic framework) with start dates between January and February 2021.
- <br>
+<br>
 
 #### KEY JOB RESPONSIBILITIES <br>
+
 · Collaborate with experienced cross-disciplinary Amazonians to conceive, design, and bring innovative products and services to market.<br>
 · Design and build innovative technologies in a large distributed computing environment, and help lead fundamental changes in the industry.<br>
 · Create solutions to run predictions on distributed systems with exposure to innovative technologies at incredible scale and speed.<br>
@@ -136,11 +152,13 @@ Amazon internships are full-time (40 hours/week) for eight consecutive weeks (tw
 <br>
 
 #### BASIC QUALIFICATIONS <br>
+
 · Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
 · Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
 · Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
 
 #### PREFERRED QUALIFICATIONS <br>
+
 · Previous technical internship(s), if applicable.<br>
 · Experience with distributed, multi-tiered systems, algorithms, and relational databases.<br>
 · Experience in optimization mathematics such as linear programming and nonlinear optimization.<br>
@@ -167,24 +185,62 @@ Collaborate on scalability issues involving access to data and information<br>
 Utilize exposure to large-scale production software troubleshooting<br>
 Help maintain mission critical services<br>
 
- 
 Minimum Qualifications<br>
 
 Bachelor/Master of Engineering with major in: Computer Science/Mechanical/Civil/Electrical etc.<br>
 Full-time, 6-month commitment from June to July 2022<br>
 
- 
 Preferred Qualifications<br>
 
 Hands-on with Java and Node.js Stack<br>
 Exposure to web designing using modern Front End Framework such as React, Angular, Vue, etc<br>
 Exposure to DBMS such as mySQL, MongoDB, etc.<br>
-  
+
 Official Website- <br>
 https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-Developer--PDMS-DPM-Engineering-_22WD57844<br>
 <br>
 
 </details>  
+<details>
+<summary> 3D Game Development work from home job/internship at Camp K12</summary>
+<br> Important Inforamtion<br>
+Duration : 2 months
+Stipend : Rs 20,000
+Apply By : 11 October,22
+<br>About Camp K12<br>
+<p>Camp K12 is an ed-tech startup founded by an MIT and Harvard computer science graduate and ex-CEO of Apple India to bring coding and 21st-century skills to students from age groups 6-18 around the globe. We were India's first coding boot camp for school kids in 2011. Today, we are leading the K-12 education space, both offline and online, by making cutting-edge techs like AI, 3D/virtual reality programming, and web & mobile app development and making it accessible to young students via our custom-built technology platforms. Our alumni team of diverse 1000+ changemakers has taught over 50,000+ students, worked with 200+ schools nationwide, and collaborated with institutions like Google, Adobe, IIM Bangalore, IIT Delhi, and more to inspire an entire generation of young makers and doers. Want to make a dent in the education sector? Come and be a part of us, get trained by TFI alumni and Google instructors, and join the movement.</p>
+<br> About the work from home job/internship <br>
+
+Selected intern's day-to-day responsibilities include:
+
+1. Ideate and create games on an in-house block-based coding platform
+2. Understand the game design, mechanics and enhance the functionalities of the game after receiving feedback
+3. Make changes and debug the code to make games for kids
+
+<br? Skills Required <br>
+<ul>
+    <li>Animation</li>
+    <li>AutoCAD</li>
+    <li>Blender 3D</li>
+    <li>Design Thinking</li>
+    <li>Unity 3D</li>
+    <li>Unity Engine</li>
+</ul>
+<br>Who Can Apply ? <br>
+Only those candidates can apply who:
+
+1. are available for the work from home job/internship
+
+2. can start the work from home job/internship between 26th Sep'22 and 31st Oct'22
+
+3. are available for duration of 2 months
+
+4. have relevant skills and interests
+
+* Women wanting to start/restart their career can also apply.
+<br><a href="https://internshala.com/internship/detail/3d-game-development-work-from-home-job-internship-at-camp-k121664188193">Apply Now.</a><br>
+
+</details>
 
 <details>
  <summary>
@@ -194,32 +250,32 @@ https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Pune-IND/Intern--Software-D
  Vodafone is hiring for the position of the intern, for more such off campus drives, internships, free udemy coupons be updated on our website. <br>
 <h2>What helps you in getting selected?</h2>
 
-*   **Resume:** A resume or CV is the first thing that will reach your recruiter/employer.
-    *   Your resume should not exceed more than a page.
-    *   Your resume should mention your skills and projects (most important)
-    *   Never send resume in docx file. Always send your resume in pdf file format.
-    *   Your resume should have a clear focus on the job position that you are looking forward to.
-*   Prepare for your exams through test series and learning material. ([Edusera](https://edusera.org/) Recommended)
-*   Improve your communication skills.
-*   Maintain your Linkedin Profile (Highly recommended)
-<br>
- 
- **Eligibility**
-===========
+- **Resume:** A resume or CV is the first thing that will reach your recruiter/employer.
+  - Your resume should not exceed more than a page.
+  - Your resume should mention your skills and projects (most important)
+  - Never send resume in docx file. Always send your resume in pdf file format.
+  - Your resume should have a clear focus on the job position that you are looking forward to.
+- Prepare for your exams through test series and learning material. ([Edusera](https://edusera.org/) Recommended)
+- Improve your communication skills.
+- Maintain your Linkedin Profile (Highly recommended)
+  <br>
 
-*   Data Modelling
-*   Data Visualisation
-*   Data Analytics and Insights
-*   Data Management and Transformation
-*   AI – Deep and Machine Learning
-*   Leading Organisation Culture and
-*   ChangeStrategic
-*   Mindset
- 
- #### BASIC QUALIFICATIONS <br>
-* Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
-* Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
-* Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
+# **Eligibility**
+
+- Data Modelling
+- Data Visualisation
+- Data Analytics and Insights
+- Data Management and Transformation
+- AI – Deep and Machine Learning
+- Leading Organisation Culture and
+- ChangeStrategic
+- Mindset
+
+#### BASIC QUALIFICATIONS <br>
+
+- Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
+- Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
+- Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
 [official Vodafone site](https://careers.vodafone.com/job/Pune-Intern/722984701)
 </details>
 
@@ -235,17 +291,18 @@ The hypothesis: Every hacker has a category of challenges that they love, whethe
 
 <h1>Life as an intern at HackerRank</h1>
 
- World class mentors, great culture and amazing people and opportunities to make a difference all in a real world scenario and right at the beginning of your career! If this sounds exciting, read on...<br>
-*   Each one of you will be paired with a mentor, who will support you throughout your internship.<br>
-*   You get to push your code to prod and contribute to meaningful & real-world projects right from your first month.<br>
-*   Transparent communication is the key metrics binding all of us here. You’ll have access to all the information needed including the company’s progress every week directly from the Executive team. <br>
-*   You’ll have direct access to all employees in the company and can always challenge the status quo enabling you to be more data driven. <br>
-*   Whether you're graduating and seeking a full-time position after your internship, or hoping to return for another internship next year, you'll be considered for a returning offer during your internship.<br>
-*   You get to design your own internship page with your batch. Glance through the previous years’ pages  2014, 2015, 2016, 2017, 2018 winter, 2018 summer, 2019 winter, 2019 summer, 2020 winter, Indy 2020 winter, 2021 winter and 2021 summer.<br>
-*   What do the previous Interns have to say ? Take a sneak peek (Blog post by Urvashi, blog post by Atibhi, blog post by Miloni)
-<br>
- 
- **Steps to apply for Internship**
+World class mentors, great culture and amazing people and opportunities to make a difference all in a real world scenario and right at the beginning of your career! If this sounds exciting, read on...<br>
+
+- Each one of you will be paired with a mentor, who will support you throughout your internship.<br>
+- You get to push your code to prod and contribute to meaningful & real-world projects right from your first month.<br>
+- Transparent communication is the key metrics binding all of us here. You’ll have access to all the information needed including the company’s progress every week directly from the Executive team. <br>
+- You’ll have direct access to all employees in the company and can always challenge the status quo enabling you to be more data driven. <br>
+- Whether you're graduating and seeking a full-time position after your internship, or hoping to return for another internship next year, you'll be considered for a returning offer during your internship.<br>
+- You get to design your own internship page with your batch. Glance through the previous years’ pages 2014, 2015, 2016, 2017, 2018 winter, 2018 summer, 2019 winter, 2019 summer, 2020 winter, Indy 2020 winter, 2021 winter and 2021 summer.<br>
+- What do the previous Interns have to say ? Take a sneak peek (Blog post by Urvashi, blog post by Atibhi, blog post by Miloni)
+  <br>
+
+**Steps to apply for Internship**
 
 <h2>Solve 3 challenges</h2>
 Visit https://www.hackerrank.com/contests/hackerrank-internship-challenges/challenges and solve all three challenges in that page. There is no time limit to solve these challenges. These challenges are not your standard DSA questions, but simple coding questions. All we want to check is whether you can translate from English to (C/C++/Python or Java....). This round is not intended to understand your dynamic programming or BFS/DFS skills. But we need to ensure you can code simple programming challenges before we consider you for the next round. Please make sure you mention your HackerRank profile (with which you solved the three questions) in your resume.<br>
@@ -258,9 +315,10 @@ Also, we've picked one of the best resume template out there to create a resume 
 <h2>Upload your resume</h2>
 Come back to this page, scroll down and Apply to the job below only with your HackerResume.<br>
 DON'T USE THE APPLY VIA LINKEDIN OPTION.<br>
-If you have any questions about the above mentioned steps, write into internship-queries@hackerrank.com and someone from our team will answer it. 
+If you have any questions about the above mentioned steps, write into internship-queries@hackerrank.com and someone from our team will answer it.
 
 [official HackerRank site](https://boards.greenhouse.io/hackerrank/jobs/3223315)
+
 </details>
 
 <details>
@@ -281,10 +339,10 @@ Future Ready Talent is a virtual internship platform with an opportunity to lear
 
 Future Ready Talent is a virtual internship platform with an opportunity to learn the in-demand azure cloud & security skills aligned to industry needs. The program aims at preparing learners work towards solving business challenges and creating innovative solutions using the power of Microsoft Azure & GitHub tools. <br>
 
-  **Eligibility**
-===========
- The program is open to students who will graduate in 2022, 2023, and graduated in 2021. Students from all specializations are open to participate. <br>
- 
+# **Eligibility**
+
+The program is open to students who will graduate in 2022, 2023, and graduated in 2021. Students from all specializations are open to participate. <br>
+
 Official Website- <br>
 https://futurereadytalent.in/courses <br>
 <br>
@@ -318,10 +376,8 @@ Our community initiatives also include providing iPads to Akanksha Foundation wh
 Official Website- <br>
 https://jobs.apple.com/en-us/details/200300095/software-development-intern<br>
 <br>
+
 </details>
-
-
-
 
 <details>
  <summary> IBM Business Development Internship – Entry Level</summary>
@@ -352,6 +408,7 @@ You should be willing to skill-up in multiple domains and technologies, work in 
 Official Website- <br>
 https://careers.ibm.com/job/13886353/intern-remote/?codes=IBM_CareerWebSite<br>
 <br>
+
 </details>
 
 <details>
@@ -390,7 +447,7 @@ https://careers.ibm.com/job/15137642/<br>
 About <br>
 
 Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � � Preferred Qualifications: � � Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
- <br>
+<br>
 
 Official Website- <br>
 https://www.linkedin.com/jobs/view/2994083985/<br>
@@ -409,14 +466,13 @@ A candidate for a temporary position who has not yet graduated and is working to
 Qualifications <br>
 
 Minimum qualifications are required to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Minimum Qualifications: � � Preferred Qualifications: � �Requirements listed would be obtained through a combination of industry relevant job experience, internship experiences and or schoolwork/classes/research.
- <br>
+<br>
 
 Official Website- <br>
 https://www.linkedin.com/jobs/view/2996404172/<br>
 <br>
 
 </details>
-
 
 <details>
  <summary>
@@ -426,28 +482,25 @@ https://www.linkedin.com/jobs/view/2996404172/<br>
  STEP (Student Training in Engineering Program), formerly known as Engineering Practicum, is a 12-week internship for first and second-year undergraduate students with a passion for computer science. The internship program has a focus of providing development opportunities to students from groups historically underrepresented in tech, through technical training and professional development. Our unique internship offers the opportunity to work on a software project alongside other STEP interns and full-time Googlers, and provides the chance to bridge the gap between academic understanding and practical professional experience. <br>
 <h2>What helps you in getting selected?</h2>
 
-*   **Resume Selection:**
-    *   Your resume should not exceed one page limit.
-    *   Mention your accomplishments, skills and projects (most important)
-    *   Preferred format: .pdf
-    *   Improve your communication skills.
-    *   Maintain your Linkedin Profile (Highly recommended)
-<br>
- 
- **Eligibility**
-===========
+- **Resume Selection:**
+  _ Your resume should not exceed one page limit.
+  _ Mention your accomplishments, skills and projects (most important)
+  _ Preferred format: .pdf
+  _ Improve your communication skills. \* Maintain your Linkedin Profile (Highly recommended)
+  <br>
 
-*   Second Year undergraduate with a major in Computer Science or related fields.
- 
- #### BASIC QUALIFICATIONS <br>
-* Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
-* Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
-* Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
-Official website link : [click here](https://buildyourfuture.withgoogle.com/programs/step/)
+# **Eligibility**
+
+- Second Year undergraduate with a major in Computer Science or related fields.
+
+#### BASIC QUALIFICATIONS <br>
+
+- Currently enrolled in a Bachelor’s or Master’s Degree in Computer Science, Computer Engineering, or related field at time of application. <br>
+- Knowledge of the syntax of languages such as Java, C/C++ or Python.<br>
+- Knowledge of Computer Science fundamentals such as object-oriented design, algorithm design, data structures, problem solving, and complexity analysis.<br>
+  Official website link : [click here](https://buildyourfuture.withgoogle.com/programs/step/)
 
 </details>
-
-
 
 <details>
  <summary>
@@ -457,7 +510,7 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
  This is 12-13 weeks internship, wherein students work alongside other STEP interns on a specific SWE project, attend skills-based and professional development training and are mentored by Google engineers.<br>
 
 **Application process**
- To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Provide the required materials in the appropriate sections (PDFs preferred):
+To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Provide the required materials in the appropriate sections (PDFs preferred):
 
 1. In the “Resume Section:” attach an updated CV or resume. <br>
 2. In the “Education Section:” attach a current or recent unofficial or official transcript in English. <br>
@@ -478,23 +531,24 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
 6. Ability to speak and write in English fluently. <br>
 
 [official website link](https://buildyourfuture.withgoogle.com/internships/)
+
 </details>
 <details>
  <summary>Xiaomi - Test Intern</summary>
  <br>
  <h1>About</h1>
- Selected intern's day-to-day responsibilities include: 
+ Selected intern's day-to-day responsibilities include:
 
 • Provide technical support on project testing around the preparation of test coverage, scripts preparation
 
- • Work on defect template setup, requirement traceability configuration, and any other configuration requirements around the testing
+• Work on defect template setup, requirement traceability configuration, and any other configuration requirements around the testing
 
- • Work on defect life cycle management within the project
+• Work on defect life cycle management within the project
 
- • Look for opportunities to use testing automation tools and techniques to improve the quality and delivery of the testing. <br>
-
+• Look for opportunities to use testing automation tools and techniques to improve the quality and delivery of the testing. <br>
 
 [official website link](https://xiaomi.app.param.ai/jobs/test-intern-880/)
+
 </details>
 
 <details>
@@ -508,8 +562,8 @@ Official website link : [click here](https://buildyourfuture.withgoogle.com/prog
 • Students who are graduating between December 2022 – June 2023.
 Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender expression, gender identity or any other characteristic protected by law.<br>
 
-
 [official website link](https://careers.moodys.com/job/14468787/summer-internship-program-2022-india-gurgaon-in/)
+
 </details>
 
 <details>
@@ -528,14 +582,13 @@ Internships are offered year round, though a majority begin in the summer.
 
 All internships are paid. And, we’ll help with visa applications where needed.
 
-
 Qualifications <br>
 Candidates must be enroled in a university as part of either a doctoral, masters, or undergraduate program (or must be a recent graduate from such a program). Please include your resume and upto three letters of recommendation while applying for this job.
- 
 
 Each applicant should request for a letter of recommendation by giving the name and email ID of the referee in the tool. The request will then be routed to the referee to upload a letter of recommendation. Please pay attention to the five areas of research and choose your interest while answering to the screening questions.
 
 [official website link](https://careers.microsoft.com/us/en/job/931311/Research-Intern)
+
 </details>
 
 <details>
@@ -552,6 +605,7 @@ Experience with SQL database applications<br>
 Full COVID-19 vaccination is an essential requirement of this role. Candidates located in states that mandate COVID-19 booster doses must also comply with those state requirements. UnitedHealth Group will adhere to all federal, state and local regulations as well as all client requirements and will obtain necessary proof of vaccination, and boosters when applicable, prior to employment to ensure compliance<br>
 
 [official website link](https://www.linkedin.com/jobs/view/2992328274/)
+
 </details>
 
 <details>
@@ -573,9 +627,8 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 <br>
 
 [official website link](https://www.linkedin.com/jobs/view/2936952678/)
+
 </details>
-
-
 
 <details>
   <summary>Hike - ML Intern (Remote) </summary>
@@ -607,19 +660,15 @@ Location: Koramangala, Bangalore<br>
 
 Type: Full Time in Office<br>
 
-
 Disclaimer: This position is expected to start around April 2022 and continue through the entire year into early next year. We ask for a minimum of 6 months, full-time, for most internships. Please consider before submitting an application.<br>
 
 This is a full time in office internship, please consult your school before applying. If you are not based in Bangalore you will be required to move here.<br>
-
-
 
 Official Website- <br>
 https://www.linkedin.com/jobs/view/3016144294/<br>
 <br>
 
 </details>
-
 
 <details>
 <summary> Merkle Software Design Engineer - Intern- Java </summary>
@@ -662,9 +711,7 @@ Join us If you are excited about:  <br>
 
 • Flexible career paths.
 
-• A chance to have a lot of fun while you work. 
-
-
+• A chance to have a lot of fun while you work.
 
 Official Website- <br>
 https://www.merkleinc.com/emea/careers/all-openings/743999769680950<br>
@@ -692,9 +739,11 @@ Only those candidates can apply who:
 2. Can start the work from home job/internship between 1st Oct'22 and 5th Nov'22
 3. Are available for duration of 4 months
 4. Have relevant skills and interests
-* Women wanting to start/restart their career can also apply.
+
+- Women wanting to start/restart their career can also apply.
 
 Perks <br>
+
 1. Certificate
 2. Letter of recommendation
 3. Flexible work hours
@@ -702,6 +751,43 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-putatoe-technologies-private-limited1664639146
 
 </details>
+
+<details>
+<summary> ParchAI SDE Intern</summary>
+
+## About
+
+ParchAI is hiring for SDE Intern
+
+## Responsibilities of the Candidate:
+
+- Need a javascript developer for developing various applications in our new tracking system. The skills we are looking for are mentioned below:
+  <br><br>
+
+## BASIC REQUIREMENTS:
+
+- Basic understanding of the MERN stack.
+- Sound knowledge of HTML and CSS and working of the DOM.
+- Sound knowledge of Javascript concepts and data structures.
+- Know how to develop web-apis in NodeJs.
+- Good problem solving skills
+- Good to have :
+  - working knowledge of Cloud functions namely in AWS Lambda or Google Cloud functions.
+  - Experience in Serverless framework.
+  - knowledge in developing REST API using Node and Express.
+  - knowledge in working with MySQL and Mongo databases.
+    <br><br>
+
+## About Intership
+
+- The intern will be expected to intern for 3 months in ParchAI. The interns are expected to get hands on experience on latest technologies used in the industry and have a internship certificate on completion of the tenure.
+  website - https://parchai.io/
+  <br>
+- For applying, send your CV at
+
+  - hr@parchai.io
+
+  </details>
 
 <details>
 <summary> HP - Summer Interns 2022 </summary>
@@ -715,14 +801,11 @@ Apprentice includes students working at hp who are enrolled in apprenticeship pr
 Education and Experience Required:<br>
 Enrolled in University.<br>
 
-
-
 Official Website- <br>
 https://jobs.hp.com/jobdetails/15465850/<br>
 <br>
 
 </details>
-
 
 <details>
   <summary>MLH Fellowship</summary>
@@ -757,6 +840,7 @@ https://jobs.hp.com/jobdetails/15465850/<br>
 <br>
  
 </details>
+
 <details>
 <summary>International Association for the Exchange of Student for Technical Experience</summary>
 <br>
@@ -778,6 +862,52 @@ It is an international organization providing cutting edge work experience for s
  
 [Official IASTE website](https://iaeste.org/internships)
 </details>
+<details>
+<summary> YEXT - Software Engineer Summer Intern
+2023 </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+The Yext Professional Service team is looking for Full Stack Software Engineers to join a fast-paced, cross-functional team working to deliver customized Yext products for our largest enterprise customers. ProServ SWEs work with engagement managers and designers to deliver customized Yext Pages, Data Integrations, Dashboards, and other solutions for Fortune 500 level clients. Our tech stack includes Closure Templates (soy), SCSS, ES6 JavaScript, Node.js, Go, and Java. We take pride in our ability to tackle any engineering challenge and keep pace with the ever-changing needs of our clients and the market. We value engineers that have a passion for technology (particularly front end development), display a willingness to jump in, and are excited to be part of a cross-functional, client-facing team. <br>
 
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+
+Official Website- <br>
+https://boards.greenhouse.io/yext/jobs/4507905<br>
+<br>
+
+</details>
+ 
+ 
+ 
+ <details>
+<summary> Motorolasolutions- Manufacturing Test Engineer Intern (2023 Internship) </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+Motorola Solutions is there for our customers when everything is on the line. In extreme moments — when a hurricane lands or when a fire breaks out. And in everyday moments — when a package arrives just in time for the holiday or when a child doesn’t miss the school bus home. 
+
+We unify voice, data, video and analytics in one integrated ecosystem to enable individuals, businesses and communities to work together in more powerful ways. To help people make better decisions, act confidently and be their best in the moments that matter. Bring your passion, potential and talents to Motorola Solutions and connect with a career that matters.<br>
+  
+Candidates must be currently pursuing a Bachelor's Degree specifically in the fields of Electrical Engineering, Computer Science or Computer Engineering.<br>
+
+Must have a graduation date on or after December 2023
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+
+Official Website- <br>
+https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
+<br>
+
+</details>
+ 
+ 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
-

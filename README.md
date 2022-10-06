@@ -894,6 +894,31 @@ https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
 <br>
 
 </details>
+
+<details>
+<summary> Programa de Estágio BEES </ BEESVERSE > </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+1. Estar cursando os últimos dois anos de graduação (penúltimo ou último ano).
+2. Vontade em aprender inglês para os próximos passos de carreira.
+
+E mais... <br>
+
+3. Ser apaixonado por tecnologia e inovação.
+4. Ser emocionado.
+5. Querer causar impacto e fazer a diferença.
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+Official Website- <br>
+https://programasambev.gupy.io/jobs/2987579<br>
+<br>
+
+</details>
  
  
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

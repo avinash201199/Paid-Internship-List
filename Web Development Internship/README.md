@@ -82,3 +82,70 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-putatoe-technologies-private-limited1664639146
 
 </details>
+
+<details>
+<summary> <b>Programa de Estágio BEES 🐝 </ BEESVERSE > <b> </summary>
+<br>
+Olá, somos o BEES! <br> 
+
+Fazemos parte do ecossistema ABInBev, a maior cervejaria do mundo. Trabalhamos muito para ajudar a vida de nossos clientes por meio das diversas vertentes do aplicativo BEES.<br>
+
+Como célula de tecnologia da nossa organização, temos um objetivo simples: CRESCER. Crescer como pessoas, como profissionais e como empresa.<br>
+
+Para além de dar vida a milhares de aplicações, aqui no BEES a gente acredita que os códigos carregam uma simbologia especial: são eles que tornam cada solução única. E é essa diversidade de códigos que constrói quem faz a tecnologia existir: AS PESSOAS.<br>
+
+O que você irá fazer?<br>
+
+1. Trabalhar em projetos relevantes para os negócios
+2. Causar impacto e se desenvolver
+3. Ser desenvolvido por profissionais de referência em Tecnologia
+4. Oportunidade de transformação
+5. Crescimento profissional
+<br>
+E o que precisa para se candidatar?<br>
+
+Estar cursando os últimos dois anos de graduação (penúltimo ou último ano).
+Vontade em aprender inglês para os próximos passos de carreira.
+E mais...<br>
+
+Ser apaixonado por tecnologia e inovação.<br>
+Ser emocionado.<br>
+Querer causar impacto e fazer a diferença.<br>
+
+Se você for estagiário BEES, nós oferecemos: <br>
+
+1. Vale refeição
+2. Seguro de saúde e de vida
+3. Descontos em medicamentos
+4. Parceria Gympass
+5. Parceria Zenklub
+6. Plataformas de idiomas e treinamento
+7. Subsídio de transporte
+8. Escritório casual em Campinas
+9. Dias de folga
+ 
+
+Igualdade de Oportunidades e Ação Afirmativa:<br>
+
+A BEES se orgulha de ser uma empregadora que trabalha forte pela igualdade de oportunidades. Não discriminamos com base em raça, cor, nacionalidade, gênero, identidade de gênero, orientação sexual, deficiência, idade ou outras características.<br>
+
+Seus dados jamais serão utilizados como critério de eliminação no processo seletivo. Com eles, o BEES é capaz de analisar a diversidade e reduzir vieses nos processos de seleção. Queremos contribuir para mudar a realidade sendo uma empresa inclusiva.<br>
+
+Para mais informações: https://www.bees.com/pt/ <br>
+
+ADDITIONAL INFORMATION<br>
+Informações do Processo Seletivo:<br>
+
+Inscrições: 26 de Setembro à 20 de Outubro.<br>
+
+Vídeo: 26 de Setembro à 23 de Outubro.<br>
+
+Dinâmica: 07 de Novembro à 11 de Novembro.<br>
+
+Entrevista: 23 de Novembro à 28 de Novembro.<br>
+
+Admissão: 16 de janeiro de 2023.<br>
+
+Apply <br> here : https://www.ambev.com.br/carreiras/trabalhe-conosco/
+
+</details>

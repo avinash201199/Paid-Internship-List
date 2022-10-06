@@ -894,6 +894,31 @@ https://motorolasolutions.wd5.myworkdayjobs.com/Careers/login<br>
 <br>
 
 </details>
+
+<details>
+<summary> Programa de Estágio BEES </ BEESVERSE > </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+1. Estar cursando os últimos dois anos de graduação (penúltimo ou último ano).
+2. Vontade em aprender inglês para os próximos passos de carreira.
+
+E mais... <br>
+
+3. Ser apaixonado por tecnologia e inovação.
+4. Ser emocionado.
+5. Querer causar impacto e fazer a diferença.
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+Official Website- <br>
+https://programasambev.gupy.io/jobs/2987579<br>
+<br>
+
+</details>
  
  <details>
 <summary> <b>Web Development work from home job/internship at Disruptive Consultancy Services Private Limited (Development Monitors India)<b> </summary>

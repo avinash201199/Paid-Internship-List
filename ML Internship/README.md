@@ -69,3 +69,27 @@
 [official website link](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b)
 </details>
 
+<details>
+  <summary>BsHappy Technologies - Machine Learning </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+1. Study and transform data science prototypes
+2. Design machine learning systems 
+3. Research and implement appropriate ML algorithms and tools 
+4. Develop machine learning applications according to requirements
+5. Select appropriate datasets and data representation methods
+6. Run machine learning tests and experiments
+7. Perform statistical analysis and fine-tuning using test results
+8. Train and retrain systems when necessary
+9. Extend existing ML libraries and frameworks
+10. Keep abreast of developments in the field
+
+<br>
+
+[official website link](https://internshala.com/student/interstitial/application/machine-learning-work-from-home-job-internship-at-bshappy-technologies1664967593)
+</details>
+
+

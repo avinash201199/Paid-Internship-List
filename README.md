@@ -1073,6 +1073,21 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 <br>
 
 </details>
+
+<hr>
+<details>
+<summary>Amazon Internship 2022 – Data Engineer</summary>
+<br>
+About <br>
+Qualification-Candidates must be in their final year of Bachelor’s or Master’s Course in Computer Science or Engineering or a related field.
+Location - Bangalore-KA, Hyderabad-TS, Gurgaon-HR <br>
+<br>
+
+Official Website- <br>
+https://www.amazon.in/<br>
+<br>
+
+</details>
  
  
 

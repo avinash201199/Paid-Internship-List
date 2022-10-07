@@ -1073,7 +1073,49 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 <br>
 
 </details>
- 
- 
+
+
+<details>
+<summary>Cognegic Systems SDE Intern</summary>
+<br>
+<b>About</b> <br>
+Cognegic Systems Pvt Ltd is an Ed-Tech company recognized by the government of India, proudly certified by ISO 9001:2015 for its quality in information Technology.
+Cognegic Systems is recognized from Startup India (Central Govt of India) & MSME Registered .
+
+
+Details of Internship:
+<ul>
+  <li>The Internship period will be for 3 months.</li>
+  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
+  <li>Internship stipend will be INR 20,000/- per month.</li>
+  <li>Upon successfully completing the Internship (3+6 months), we will absorb them as full time employee and we will be paying the salary Rs.6.89 LPA.</li>
+</ul>
+
+Pre-requisites:
+
+<ul>
+  <li>Candidates graduating in 2023</li>
+  <li>Candidates who are looking at programming as a career choice</li>
+  <li>Candidates who can code in Java/ Python/ Javascript</li>
+  <li>CGPA- 7 and more or 70% and above</li>
+  <li>B.Tech / B.E- (CSE/IT)/MCA</li>
+</ul>
+
+Hiring process: 
+
+Step 1: Online Test (Aptitude + Coding) 
+Step 2: Online Technical Interviews based on the concepts of OOPs, Database, any programming language (Java preferably)
+
+
+Profile: Full-time internship
+
+Location: Hyderabad
+<br>
+
+Registeration Form- <br>
+https://docs.google.com/forms/d/e/1FAIpQLSfoCvFWDK_M4wtup7SYP4puNpgyD9mZ0i80hajJ-leJvgIYxg/viewform<br>
+<br>
+
+</details>
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

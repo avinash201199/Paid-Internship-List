@@ -116,7 +116,19 @@ https://www.linkedin.com/jobs/view/2994083985/<br>
 <br>
 
 </details>
-  
+  <details>
+  <summary>Netflix Summer Intern</summary>
+  <br>
+  About<br>
+  The Summer Internship
+At Netflix, we offer a personalized experience for interns, and our aim is to offer an experience that mimics what it is like to actually work here. We match qualified interns with projects and groups based on interests and skill sets, and fully embed interns within those groups for the summer. Netflix is a unique place to work and we live by our values, so it's worth learning more about our culture.
+
+Internships are paid and are a minimum of 12 weeks, with a choice of a few fixed start dates in May or June to accommodate varying school calendars. Conditions permitting, our 2023 summer internships will be located either remotely in US/Canada, in our Los Gatos, CA office, or in our Los Angeles, CA office, depending on the team.
+
+Netflix is an equal opportunity employer that celebrates diversity, recognizing that diversity of thought and background builds stronger teams. We approach diversity and inclusion seriously and thoughtfully. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+<br>
+Link: https://jobs.netflix.com/jobs/232791459 <br> 
+  </details>
 <details>
  <summary>Optum - Software Engineering Intern</summary>
  <br>

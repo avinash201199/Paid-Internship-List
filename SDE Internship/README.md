@@ -28,6 +28,7 @@ Responsibilities of the Candidate:
   testing system for something that's never been done before.
   website - https://unstop.com/internship/engineering-internship-summer-2023-google-417669
   <br>
+</details>
 
 <details>
 <summary>Amazon Software Development Engineer - Intern (WoW Applications)</summary>
@@ -230,6 +231,7 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 
 </details>
 
+<details>
   <summary>ClearFeed -Software Engineer Intern </summary>
  <br>
  <h1>About</h1>
@@ -362,7 +364,7 @@ ParchAI is hiring for SDE Intern
   <br>
 - For applying, send your CV at
   - hr@parchai.io
-
+</details>
 
 <details>
 <summary> YEXT - Software Engineer Summer Intern

@@ -66,6 +66,18 @@ https://mustakbilcorner.com/category/internships/<br>
 <br>
 
 </details>
+<details>
+<summary> Graduate Intern at Intel </summary>
+<br>
+About <br>
+Intels Information Security needs engineering students passionate about the field of Information Security , Cyber Security and are excited to enhance their skills by supplementing their classroom learning Interns in Intels Information Security team.<br>
+<br>
+
+Official Website- <br>
+https://jobs.intel.com/job/bengaluru/graduate-intern/41147/34063306512<br>
+<br>
+
+</details>
 
 <details>
 <summary> Amazon- Programmer Analyst Intern </summary>

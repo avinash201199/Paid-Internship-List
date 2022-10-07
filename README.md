@@ -911,7 +911,7 @@ We unify voice, data, video and analytics in one integrated ecosystem to enable 
   
 Candidates must be currently pursuing a Bachelor's Degree specifically in the fields of Electrical Engineering, Computer Science or Computer Engineering.<br>
 
-Must have a graduation date on or after December 2023
+Must have a graduation date on or after December 2022
 
 Education and Experience Required:<br>
 Enrolled in University.<br>

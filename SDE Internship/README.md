@@ -385,3 +385,23 @@ https://boards.greenhouse.io/yext/jobs/4507905<br>
 <br>
 
 </details>
+
+ <details>
+<summary>Adobe Internship 2022</summary>
+<br>
+About <br>
+
+Explore opportunities to create connections and build the skills you need to tackle any challenge. We offer internships throughout the company — in engineering, sales, marketing, and more — so you can do mission-critical work and start building a one-of-a-kind career.
+
+Discover the Adobe Research Women-in-Tech Scholarship
+https://research.adobe.com/scholarship/
+   
+Explore the Adobe Research Fellowship 
+https://research.adobe.com/fellowship/
+<br>
+
+Official Website- <br>
+(https://www.adobe.com/)<br>
+<br>
+
+</details>

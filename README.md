@@ -706,6 +706,57 @@ https://jobs.hp.com/jobdetails/15465850/<br>
  
 </details>
  
+ <details>
+  <summary>Content Writer Internship at TechEagle</summary>
+ <br>
+ 
+### About
+ 
+TechEagle is India's pioneer and leading manufacturer of long-range, high Speed, heavy
+payload delivery Drone logistics solutions. Founded in 2015 by an IIT Kanpur alumni, It
+became one of the first ventures to receive approvals from DGCA, MoCA, AAI & MHA to
+conduct Beyond Visual Line of Sight (BVLOS) trials for package delivery via Drones in
+India.
+ 
+### Responsibilities
+  -Create content marketing campaigns to drie leads and use SEO best
+practices to increase traffic to the company website}
+ -Regularly produce arious content types, including email, social media posts,
+blogs etc.
+
+ -Actiely manage and promote our blog, and pitch articles to releant third-
+party platforms
+
+ -Edit content produced by other members of the team
+ -Conducting in-depth research on industry-related topics in order to deelop
+original content
+ -Assisting the marketing team in deeloping content for adertising campaigns
+ -Proofreading content for errors and inconsistencies 
+ -Creating compelling headlines and body copy that will capture the attention of
+the target audience
+ -Identifying customers needs and recommending new content to address gaps
+in the company's current content
+  
+  ###Skills Required
+  -Bachelor's degree in communications, marketing, English, journalism, or any
+field}
+-Knowledge of digital marketing tactics, including SEO, email marketing and web
+analytics}
+ -Excellent writing skills, as well as the ability to communicate and collaborate
+effectiely}
+ -The ability to consistently meet tight deadlines
+ -Working knowledge of content management systems
+- A portfolio of published articles
+ -Excellent writing and editing skills
+ -The ability to work in a fast-paced enironment
+ -The ability to handle multiple projects concurrently
+ 
+
+[official website link](https://tinyurl.com/techeagle-hiring)
+<br>
+ 
+</details>
+ 
  
  
  

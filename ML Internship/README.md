@@ -69,3 +69,20 @@
 [official website link](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b)
 </details>
 
+<details>
+  <summary>Machine Learning Engineering work from home job/internship at IIT Bombay </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills  We're Looking For 👨‍💻
+  
+* Algorithms
+* Data Structures
+* Machine Learning
+* Python
+<br>
+
+[official website link](https://internshala.com/internship/detail/machine-learning-engineering-work-from-home-job-internship-at-iit-bombay1665124748)
+</details>
+
+

@@ -1013,6 +1013,68 @@ https://challenge24.org/](https://www.crio.do/phonepe-tech-scholars-program/?utm
  
 
 <details>
+<summary> Content Writing Intern @ TechEagle Innovation</summary>
+<br>
+About <br>
+####About the job
+TechEagle is India's pioneer and leading manufacturer of long-range, high Speed, heavy
+payload delivery Drone logistics solutions. Founded in 2015 by an IIT Kanpur alumni, It
+became one of the first ventures to receive approvals from DGCA, MoCA, AAI & MHA to
+conduct Beyond Visual Line of Sight (BVLOS) trials for package delivery via Drones in
+India.
+
+
+Roles & responsibilities of Content Writing Intern:
+
+-Create content marketing campaigns to drie leads and use SEO best
+practices to increase traffic to the company website
+ -Regularly produce arious content types, including email, social media posts,
+blogs etc.
+
+-Actiely manage and promote our blog, and pitch articles to releant third-
+party platforms
+
+ -Edit content produced by other members of the team
+ -Conducting in-depth research on industry-related topics in order to deelop
+original content
+ -Assisting the marketing team in deeloping content for adertising campaigns
+ -Proofreading content for errors and inconsistencies 
+ -Creating compelling headlines and body copy that will capture the attention of
+the target audience
+ -Identifying customers needs and recommending new content to address gaps
+in the company's current content
+
+Pre-requisites:
+
+Bachelor's degree in communications, marketing, English, journalism, or any
+field
+ Knowledge of digital marketing tactics, including SEO, email marketing and web
+analytics
+ Excellent writing skills, as well as the ability to communicate and collaborate
+effectiely
+ The ability to consistently meet tight deadlines
+ Working knowledge of content management systems
+ A portfolio of published articles
+ Excellent writing and editing skills
+ The ability to work in a fast-paced enironment
+ The ability to handle multiple projects concurrently
+ 
+Perks & benefits:
+
+Competitive Stipend
+We invest in personal growth.
+Travel & Fieldwork opportunities.
+Your ideas and opinions matter to us.
+
+
+
+Official Website- <br>
+https://tinyurl.com/techeagle-hiring<br>
+<br>
+
+</details>
+ 
+ <details>
 <summary> Content Writing Intern </summary>
 <br>
 About <br>
@@ -1073,49 +1135,8 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 <br>
 
 </details>
-
-
-<details>
-<summary>Cognegic Systems SDE Intern</summary>
-<br>
-<b>About</b> <br>
-Cognegic Systems Pvt Ltd is an Ed-Tech company recognized by the government of India, proudly certified by ISO 9001:2015 for its quality in information Technology.
-Cognegic Systems is recognized from Startup India (Central Govt of India) & MSME Registered .
-
-
-Details of Internship:
-<ul>
-  <li>The Internship period will be for 3 months.</li>
-  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
-  <li>Internship stipend will be INR 20,000/- per month.</li>
-  <li>Upon successfully completing the Internship (3+6 months), we will absorb them as full time employee and we will be paying the salary Rs.6.89 LPA.</li>
-</ul>
-
-Pre-requisites:
-
-<ul>
-  <li>Candidates graduating in 2023</li>
-  <li>Candidates who are looking at programming as a career choice</li>
-  <li>Candidates who can code in Java/ Python/ Javascript</li>
-  <li>CGPA- 7 and more or 70% and above</li>
-  <li>B.Tech / B.E- (CSE/IT)/MCA</li>
-</ul>
-
-Hiring process: 
-
-Step 1: Online Test (Aptitude + Coding) 
-Step 2: Online Technical Interviews based on the concepts of OOPs, Database, any programming language (Java preferably)
-
-
-Profile: Full-time internship
-
-Location: Hyderabad
-<br>
-
-Registeration Form- <br>
-https://docs.google.com/forms/d/e/1FAIpQLSfoCvFWDK_M4wtup7SYP4puNpgyD9mZ0i80hajJ-leJvgIYxg/viewform<br>
-<br>
-
-</details>
+ 
+ 
+ 
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)

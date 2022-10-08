@@ -634,6 +634,27 @@ Full COVID-19 vaccination is an essential requirement of this role. Candidates l
 
 </details>
 
+
+<details>
+ <summary>Outreachy Internship Program</summary>
+ <br>
+ <h1>About</h1>
+ <br>Outreachy is a three-month-long internship program which is organized by the Software Freedom Conservancy for the people who are underrepresented in this specific field. It is a paid and remote internship, and it is conducted twice a year that is from May to August and December to March. In the Outreachy program, you will get to contribute to open source so if you are familiar to open source then this will increase your chances of getting shortlisted for the program. The amount paid as a stipend is around 7000 USD and the internship completely works from home but if you need to attend any event related to this program then the travel stipend of 500 USD is also available. The Outreachy Internship program is not only for programmers or developers, there are lots of opportunities in the Outreachy program for non-technical people too.The program is mainly for women, transgender, genderqueer, non-binary people, people of color, and people who faced discrimination because of caste or tribe.<br>
+ 
+ Eligibility <br>
+ 
+-The minimum age of the applicant must be 18 at the time of applying for the program.
+-The candidate must be available to spend 40 hours or more per week throughout the program.
+-Candidates who were GSoC interns earlier are not eligible for Outreachy even if they have not completed their GSoC program successfully.
+-Candidates who applied for a previous Outreachy program but got rejected can also apply.
+-Candidates who have part-time jobs or contract-based jobs are eligible for the program but candidates having full-time jobs are not eligible.
+-If the candidate is a university student then he or she can only apply for the first round if their university lies in Northern Hemisphere and if their university lies in Southern Hemisphere then they can only apply for the second round.
+-If the university lie near the equator or the candidate is a final year student then he or she can apply for either of the two rounds.<br>
+
+[official website link](https://www.outreachy.org/)
+
+</details>
+
 <details>
   <summary>Hike - SDE Intern </summary>
  <br>

@@ -59,7 +59,14 @@ https://internshala.com/internship/detail/deep-learning-neural-network-work-from
 About <br>
  Build your knowledge while learning how to run a global business and sharpen your leadership skills, and make connections that will advance your career.<br>
 <br>
+#### PREFERRED QUALIFICATIONS <br>
 
+- 0-2 years overall development/technical support experience.<br>
+- Strong object oriented development knowledge in C++ and/or Java.<br>
+- Knowledge of the UNIX/Linux operating system.<br>
+- Proven ability to troubleshoot and identify the root cause of issues.<br>
+- Demonstrates skill and passion for operational excellence.<br>
+- Documentation skills<br>
 Official Website- <br>
 https://careers.jpmorgan.com/us/en/students/programs?search=&tags=location__AsiaPacific__India<br>
 <br>

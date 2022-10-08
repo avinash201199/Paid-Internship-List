@@ -1013,6 +1013,68 @@ https://challenge24.org/](https://www.crio.do/phonepe-tech-scholars-program/?utm
  
 
 <details>
+<summary> Content Writing Intern @ TechEagle Innovation</summary>
+<br>
+About <br>
+####About the job
+TechEagle is India's pioneer and leading manufacturer of long-range, high Speed, heavy
+payload delivery Drone logistics solutions. Founded in 2015 by an IIT Kanpur alumni, It
+became one of the first ventures to receive approvals from DGCA, MoCA, AAI & MHA to
+conduct Beyond Visual Line of Sight (BVLOS) trials for package delivery via Drones in
+India.
+
+
+Roles & responsibilities of Content Writing Intern:
+
+-Create content marketing campaigns to drie leads and use SEO best
+practices to increase traffic to the company website
+ -Regularly produce arious content types, including email, social media posts,
+blogs etc.
+
+-Actiely manage and promote our blog, and pitch articles to releant third-
+party platforms
+
+ -Edit content produced by other members of the team
+ -Conducting in-depth research on industry-related topics in order to deelop
+original content
+ -Assisting the marketing team in deeloping content for adertising campaigns
+ -Proofreading content for errors and inconsistencies 
+ -Creating compelling headlines and body copy that will capture the attention of
+the target audience
+ -Identifying customers needs and recommending new content to address gaps
+in the company's current content
+
+Pre-requisites:
+
+Bachelor's degree in communications, marketing, English, journalism, or any
+field
+ Knowledge of digital marketing tactics, including SEO, email marketing and web
+analytics
+ Excellent writing skills, as well as the ability to communicate and collaborate
+effectiely
+ The ability to consistently meet tight deadlines
+ Working knowledge of content management systems
+ A portfolio of published articles
+ Excellent writing and editing skills
+ The ability to work in a fast-paced enironment
+ The ability to handle multiple projects concurrently
+ 
+Perks & benefits:
+
+Competitive Stipend
+We invest in personal growth.
+Travel & Fieldwork opportunities.
+Your ideas and opinions matter to us.
+
+
+
+Official Website- <br>
+https://tinyurl.com/techeagle-hiring<br>
+<br>
+
+</details>
+ 
+ <details>
 <summary> Content Writing Intern </summary>
 <br>
 About <br>
@@ -1073,6 +1135,7 @@ https://www.linkedin.com/jobs/view/3300397556/?alternateChannel=search&refId=48r
 <br>
 
 </details>
+ 
  
  
 

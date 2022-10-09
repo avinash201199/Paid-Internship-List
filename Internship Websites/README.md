@@ -15,7 +15,7 @@ https://internshala.com/internship/detail/unity-development-work-from-home-job-i
 
 
 <details>
-<summary>Cuvette<-Tech/summary>
+<summary>Cuvette-Tech</summary>
 <br>
 About <br>
 Cuvette Tech is a platform that helps startups find the right software developer interns. 

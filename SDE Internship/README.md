@@ -397,3 +397,37 @@ https://boards.greenhouse.io/yext/jobs/4507905<br>
 <br>
 
 </details>
+
+  
+<details>
+<summary> Realme community-internship opportunities. </summary>
+<br>
+About <br>
+
+Realme  is hiring for Undergraduates students!
+
+Responsibilities of the Candidate:
+
+- Specific responsibilities vary by project area
+  <br><br>
+  BASIC REQUIREMENTS:
+- Must be an Undergraduate Student currently enrolled in a college/university studying Business Studies/Administration/Management, Human Resources, or Psychology     related courses
+- Can do clerical task such as filing, recording and encoding transactions.
+- Interviewing and sourcing
+- With good communication skills, written and oral.
+- Good in Office Applications (MS Word, MS Excel)
+- Amenable to work on site
+- Effective implementation skills (e.g., C++, Java, Python)
+  <br>
+  
+  About Summer Intership offered by Realme Philippines.
+  
+- Got some spare time this summer? Then maybe you’d like to take part in the coolest internship program from #RealmePH!
+- Get an amazing experience in Marketing, Strategy , Events and Digital fields.
+- Open for Undergraduate Students...
+- You can send your resumes on the folllowing website.
+ <br>
+  website - https://ph.indeed.com/Realme-Internship-jobs?vjk=ad953c4b28158633
+  <br>
+</details> 
+ 

@@ -400,7 +400,8 @@ https://boards.greenhouse.io/yext/jobs/4507905<br>
 <details>
  <summary>Twilio - Software Engineering Intern</summary>
  <br>
-## About:
+  
+## About:<br>
  Founded in 2008, Twilio has over 5,000 employees in 26 offices in 17 countries and counting, with headquarters in San Francisco and other offices in Atlanta, Bangalore, Berlin, Bogotá, Denver, Dublin, Paris, Prague, Hong Kong, Irvine, London, Madrid, Munich, Malmö, Mountain View, Redwood City, New York City, São Paulo, Sydney, Melbourne, Singapore, Tallinn, and Tokyo. <br>
   
 ## Required Qualifications <br>

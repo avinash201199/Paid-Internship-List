@@ -1,4 +1,39 @@
 <details>
+<summary> Full Stack Development Internship in Bangalore at Gfactors </summary>
+
+## About Company:
+Gfactors is an AI/ML-driven data annotations company based in Bangalore and is founded by technology enthusiasts and alumnus of premium technology/business schools including IIT and IIM and has a team size of 180+.
+
+Gfactors help and improve the customer experience by putting customer feedback to work. We decoded at least 100 million live lines of customer feedback for our clients to accelerate their AI and machine learning models. We help build smart interactions by deploying bots, Alexa skills, and Google agents to empower customers with conversational AI.
+
+## About Internship:
+Selected intern's day-to-day responsibilities include working as an extended arm of our team in design & development of web applications using Python, Jinja Template, HTML, CSS, Bootstrap, JS, Django, AWS, and Docker.
+
+## Only those candidates can apply who:
+- Are available for full time (in-office) internship.
+- Can start the internship between 26th Sep'22 and 31st Oct'22.
+- Are available for duration of 6 months.
+- Have relevant skills and interests.
+
+## Stipend:
+INR 20,000-40,000/month
+
+## Deadline:
+2022-10-11 23:59:59
+
+## Other perks:
+Certificate, Informal dress code, 5 days a week, Free snacks & beverages.
+
+## Skills required:
+HTML, CSS, Python, Django, Docker and Amazon Web Services (AWS)
+
+## Apply at:
+- [Internshala](https://internshala.com/internship/detail/full-stack-development-internship-in-bangalore-at-gfactors1664182741?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+- [JobRapido](https://in.jobrapido.com/jobpreview/213367094?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic)
+
+</details>
+
+<details>
 <summary> <b>Teaching (Coding and Programming) work from home job/internship at Camp K12  <b> </summary>
 <br>
 About Camp K12 <br>

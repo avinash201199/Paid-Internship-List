@@ -397,3 +397,25 @@ https://boards.greenhouse.io/yext/jobs/4507905<br>
 <br>
 
 </details>
+<details>
+ <summary>Twilio - Software Engineering Intern</summary>
+ <br>
+ <h1>About</h1>
+ 
+#### Required Qualifications <br>
+ 
+To be working towards a Bachelors degree in computer science, computer engineering or a related field. <br>
+To have a keen interest in software development with several side projects and perhaps are a part of the open source community.<br>
+To have a hungry entrepreneurial and "can do" spirit, as evidenced by successful interest in learning new technologies.<br>
+To have explored writing code in any of the following languages: Python/Java/Javascript/PHP/C or C++.<br>
+
+#### Responsibilities:
+ Be a Software Engineer, not just an “intern”.<br>
+ Ship many different projects during your summer.<br>
+  Engineers at Twilio tackle problems in distributed computing, real-time DSP (audio processing), virtualization performance, distributed messaging and more.<br>
+ During your internship, you will be given responsibility for core features and services that ship to our users.<br>
+  You will be expected to adopt these challenges, learn fast and deliver phenomenal results.<br>
+  
+[official website link](https://voidcareers.com/f/twilio---software-engineer-intern-batch-2024)
+
+</details>

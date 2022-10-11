@@ -127,7 +127,7 @@ Skills and other requirements:
 <ul>
     <li>Figma</li>
 </ul>
-<br>Who Can Apply ? <br>
+<br>Who Can Apply : <br>
 Only those candidates can apply who:
 
 1. are available for the work from home job/internship

@@ -27,3 +27,18 @@ https://cuvette.tech/app/student/internships/browse<br>
 <br>
 
 </details>
+
+
+<details>
+<summary>LinkedIn</summary>
+<br>
+About <br>
+LinkedIn is a very potent tool for students and recent graduates to search for job and internship opportunities.You can also get internship opportunities for LinkedIn through LinkedIn
+<br>
+<br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/internship-jobs/<br>
+<br>
+
+</details>

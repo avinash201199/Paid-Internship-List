@@ -1221,3 +1221,24 @@ https://docs.google.com/forms/d/e/1FAIpQLSfoCvFWDK_M4wtup7SYP4puNpgyD9mZ0i80hajJ
 </details>
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
+
+ 
+ <details>
+<summary> Graphic Design
+Hungama Digital Media Entertainment Private Limited </summary>
+<br>
+Hungama is a leading digital entertainment company in South Asia. Founded in 1999, it has remained at the forefront of the internet revolution in India and has created exceptional digital experiences by combining entertainment & technology. With an aim to include more consumers under the umbrella of digital entertainment, it has worked towards introducing destinations that make digital content consumption simpler & enriching. Hungama's portfolio covers a wide spectrum of services that have touched over a billion lives in more than 190 countries.
+
+These include Hungama Music, a very popular music streaming platform; Hungama Play, the go-to destination for video streaming; Artist Aloud, a platform for independent artists, & Hungama Games, a developer, publisher, distributor & marketer of mobile games. Leveraging its distribution & aggregation strengths, we are also working with telecom, DTH, ISP & OEM partners to create unique and engaging entertainment destinations for consumers. <br>
+Cuvette (pronounced as Q-vet) is the #1 way for College students & Early Graduates to get Internships, Jobs in Software, Management, Media, etc.<br>
+<br>
+
+Official Website- <br>
+https://www.hungama.org/<br>
+<br>
+<ul>
+  <li>The Internship period will be for 3 months.</li>
+  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
+  <li>Internship stipend will be INR 10,000 /month.</li>
+</ul>
+</details>

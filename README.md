@@ -53,6 +53,24 @@ https://internshala.com/internship/detail/deep-learning-neural-network-work-from
 <br>
 
 </details>
+
+<details>
+<summary> JP Morgan SEP Internship Program </summary>
+ 
+## About
+
+JP Morgan's SEP Internship program is a summer internship program that gives students real-world experience.
+The selection of this program is done under code for good hackathon which is a hackathon that is held in the summer in which the deserving candidates receive the offer to join the program
+
+### Code for Good Hackathon- <br>
+https://careers.jpmorgan.com/in/en/students/programs/code-for-good?search=&tags=location__AsiaPacific__India<br>
+ 
+### JP Morgan SEP Intern Interview experience- <br>
+ https://www.geeksforgeeks.org/jpmorgan-chase-co-code-for-good-internship-interview-experience-2021/
+<br>
+
+</details>
+
 <details>
 <summary> JP Morgan Analyst Internship Program</summary>
 <br>

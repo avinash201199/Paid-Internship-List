@@ -1250,3 +1250,21 @@ https://docs.google.com/forms/d/e/1FAIpQLSfoCvFWDK_M4wtup7SYP4puNpgyD9mZ0i80hajJ
 </details>
 
 [![](https://img.shields.io/static/v1?label=Sponsor-ME&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/avinash201199)
+
+<details>
+<summary> Machine Learning Mentorship work from home internship at Codersarts </summary>
+<br>
+Codersarts, a product of SofStack.com provides services such as web development, mobile app development, technology solutions for business, hiring dedicated developers for projects, IT solutions, database development, and programming expert help solutions. We provide all the programming expert help, guidance, and support our clients need to get a good grasp of understanding and scaling business at the highest level. SofStack is a product development company based in Noida, India, and Codersarts is a product of the same. <br>
+Cuvette (pronounced as Q-vet) is the #1 way for College students & Early Graduates to get Internships, Jobs in Software, Management, Media, etc.<br>
+<br>
+
+Official Website- <br>
+https://www.codersarts.com//<br>
+<br>
+ <ul>
+  <li>The Internship period will be for 6 months.</li>
+  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 6 months.</li>
+  <li>Internship stipend will be INR 15,000-20,000 /month.</li>
+</ul>
+
+</details>

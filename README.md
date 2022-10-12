@@ -577,6 +577,35 @@ To start the application process, you will need an updated CV or resume and a cu
 [official website link](https://buildyourfuture.withgoogle.com/internships/)
 
 </details>
+
+<details>
+ <summary>
+   Microsoft Research Intern</summary>
+ <br>
+ <h1>About</h1>
+ Interns put inquiry and theory into practice.
+ Working with some of the world’s best researchers, interns learn, collaborate, and network for life. Interns not only advance their own careers, but they also  contribute to the exciting R&D strides our researchers are making. <br>
+
+**Application process**
+To start the application process, you will need an updated CV or resume and a current unofficial or official transcript in English. Provide the required materials in the appropriate sections (PDFs preferred):
+
+1. In the “Resume Section:” attach an updated CV or resume. <br>
+2. In the “Education Section:” attach a current or recent unofficial or official transcript in English. <br>
+
+**Minimum qualifications:**
+1.Candidates must be enroled in a university as part of either a doctoral, masters, or undergraduate program (or must be a recent graduate from such a program).Please include your resume and upto three letters of recommendation while applying for this job.
+2.Each applicant should request for a letter of recommendation by giving the name and email ID of the referee in the tool. The request will then be routed to the referee to upload a letter of recommendation. Please pay attention to the five areas of research and choose your interest while answering to the screening questions.<br>
+
+**Preferred qualifications:**
+
+1. Available to work full-time for a minimum of 13 weeks. <br>
+2. Returning to your degree after completing the internship. <br>
+3. Interest and ability to learn other coding languages as needed. <br>
+4. Ability to speak and write in English fluently. <br>
+
+[official website link](https://careers.microsoft.com/us/en/job/931311/Research-Intern)
+
+</details>
 <details>
  <summary>Xiaomi - Test Intern</summary>
  <br>

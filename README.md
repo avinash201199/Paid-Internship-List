@@ -1268,3 +1268,16 @@ https://www.codersarts.com//<br>
 </ul>
 
 </details>
+
+<details>
+<summary> Deloitte Summer Internship Programme </summary>
+<br>
+About <br>
+Spending your summer at Deloitte is a fantastic way to get up close to the world of business, find out what excites and inspires you, and where it could take you. As well as vital work experience, you’ll get a good idea of whether we’re the firm for you.
+<br>
+
+Official Website- <br>
+https://www2.deloitte.com/ie/en/pages/careers/articles/summer-intern-programme.html<br>
+<br>
+
+</details>

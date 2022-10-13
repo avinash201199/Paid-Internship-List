@@ -158,6 +158,8 @@ Official Website- <br>
 https://www.amazon.jobs/en-gb/jobs/1375720/programmer-analyst-intern<br>
 <br>
 
+
+
 </details>
 <details>
 <summary> Amazon- Software Development Engineer Intern </summary>
@@ -203,6 +205,67 @@ https://www.amazon.jobs/en/jobs/1227693/software-development-engineer-intern<br>
 <br>
 
 </details>
+
+<details>
+<summary> IBM Summer 2023 Internship Program | Project & Stipend Based Internship</summary>
+<br> Important Inforamtion<br>
+Duration : According to skill decided by IBM
+Stipend : Interns will be paid a stipend that is competitive to other leading companies in India.
+Apply By : November 14, 2022
+<br>About IBM<br>
+<p>IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.</p>
+<br> About the work from home job/internship <br>
+
+<br>At a high level, our internships serve multi purposes:</br>
+
+1. Interns bring in fresh ideas and perspectives to the lab and help us conduct world-class research, thus creating impact.
+2. IBM Research provides interns an environment where they experience a world-class industrial research setting.
+3. Projects completed during the internships become part of larger research projects at IBM.
+4.The projects that the students participate in are also of interest to the universities that they come from and help increase collaborations with the universities.
+
+<br>Required Technical and Professional Expertise</br>
+
+1. Student must be enrolled in one of the following degree program: Btech/MS/Mtech/PhD
+2. Preferred degrees include Computer science, Mathematics. 
+3. Student should have good hands-on experience in one or more of these programming languages widely used in open source community projects such as Go, Python, Ruby,      C/C++, Java, Node.js, Javascript etc.
+4. Student should have decent Linux programming exposure.
+5. Good to have some exposure to open source projects within Kubernetes/Big Data platform communities such as Knative, Operators, Fluentd, Prometheus, Elasticsearch      etc.
+6. Good knowledge of software engineering practices including agile processes
+7. Student must have very strong problem solving aptitude and ability to delve into multifaceted pieces of knowledge
+
+
+<br>Who Can Apply : <br>
+Only those candidates can apply who:
+
+1. The student must be enrolled in either a Btech, MS, Mtech, or Ph.D. program.
+   Mathematics and computer science degrees are preferred.
+2. One or more of these programming languages, such as Go, Python, Ruby, C/C++, Java, Node.js, Javascript, etc., which are frequently used in open-source community        projects, should be well-practiced by the student.
+3. The student should have some programming experience with Linux.
+4. It is advantageous to have some familiarity with open source initiatives within the Kubernetes/Big Data platform communities, like Knative, Operators, Fluentd,        Prometheus, Elasticsearch, etc.
+5. Good familiarity with agile procedures in software engineering
+6. The student must have a very good knack for solving problems and the capacity to dig into complex areas of study.
+
+<br>Benifits : </br>
+<ul>
+   <li>The interns receive a stipend that is competitive with other leading companies in India.</li>
+   <li>Ierns receive an internship completion certificate from IBM after the successful completion of the internship.</li>
+   <li>A great opportunity to do an internship in IBM as top leading IBM experts guide you</li>
+</ul>
+<br>How to apply : </br>
+<ul>
+   <li>To apply to IBM Summer 2023 Internship Program <a href="https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=26059&siteid=5016&Areq=593855BR#jobDetails=623218_5016">Apply Now.</a></li>
+   <li>After registering, you will receive an email confirmation with an IBM Reference Number. Please remember this.</li>
+   <li>Please review the project specifics and make a shortlist of the three projects you would choose to work on.</li>
+   <li>Please provide the three shortlisted projects and your IBM Reference number.</li>
+</ul>
+To view the official notification of the IBM Summer 2023 Internship Program <a href="https://researcher.draco.res.ibm.com/researcher/view_group_subpage.php?id=8101">
+CLICK HERE.</a></li>
+</details>
+
 
 <details>
 <summary>Autodesk- Intern, Software Developer (PDMS-DPM-Engineering)</summary>

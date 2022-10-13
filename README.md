@@ -1297,5 +1297,30 @@ Spending your summer at Deloitte is a fantastic way to get up close to the world
 Official Website- <br>
 https://www2.deloitte.com/ie/en/pages/careers/articles/summer-intern-programme.html<br>
 <br>
+ 
+<details>
+<summary>CI&T Next Gen 2023 - Brazil</summary>
+<br>
+About <br>
+
+#### Responsibilities:
+
+1. Estar cursando uma graduação na área de TI.
+2. Vontade em aprender inglês para os próximos passos de carreira.
+
+E mais... <br>
+
+3. Ser apaixonado por tecnologia e inovação.
+4. Ser emocionado.
+5. Querer causar impacto e fazer a diferença.
+
+Education and Experience Required:<br>
+Enrolled in University.<br>
+
+Official Website- <br>
+https://ciandt.com/br/pt-br/carreiras/programa-de-estagio?utm_source=linkedin&utm_medium=social&utm_term=publico_organic&utm_content=&utm_campaign=nextgen23<br>
+<br>
+
+</details>
 
 </details>

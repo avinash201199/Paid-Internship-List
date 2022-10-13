@@ -1,5 +1,5 @@
 <details>
-<summary> <b>Business Development (Sales), work from home/internship at Wobot Intelligence Private Limited  <b> </summary>
+<summary> <b>Business Development(Sales), work from home/internship at Wobot Intelligence Private Limited  <b> </summary>
 <br>
 About Wobot Intelligence Private Limited <br>
 Website : https://wobot.ai/ <br>
@@ -41,7 +41,7 @@ Apply <br> here : https://internshala.com/internship/detail/business-development
 </details>
 
 <details>
-<summary> <b>Business Development (Sales), work from home/internship with jub offer at WhizJuniors <b> </summary>
+<summary> <b>Business Development(Sales), work from home/internship at WhizJuniors <b> </summary>
 <br>
 About WhizJuniors <br>
 WhizJuniors is the world's biggest social gamified technology learning platform, exclusively for students from classes 1-12. Our platform allows the enhancement of the technical, creative, and entrepreneurial skills of young minds with an element of fun learning. We provide age-appropriate online courses with the right syllabus. Students have to learn and solve quizzes to earn coins, practice with practicals, and finally get certified. They can compare and showcase their scores, skills, and achievements, and the more they score, the higher they rank.

@@ -95,54 +95,7 @@ Official Website- <br>
 https://www.amazon.jobs/en-gb/jobs/1375720/programmer-analyst-intern<br>
 <br>
 
-<details>
-<summary> Mobile App Development work from home job/internship at Hello Reception</summary>
-<br> Important Inforamtion<br>
-Duration : 2 months
-Stipend : Rs 4,000
-Apply By : 25 October,22
-<br>About Hello Reception<br>
-<p>We are a B2B SaaS startup in the hospitality industry. We are a small, tightly-knit team of passionate people ready to make a mark in the tech industry. When you join us, you will be working directly with the founders of the company and witnessing how to kickstart and run a startup from the very scratch. You will be exposed to key business insights and strategies, something that only years of experience in a corporate company can teach</p>
-<br> About the work from home job/internship <br>
 
-This is a UI/UX design internship for a mobile app.
-
-Selected intern's day-to-day responsibilities include:
-
-1. Plan and implement new designs
-2. Optimize existing user interface designs
-3. Test for intuitivity and experience
-4. Communicate with clients to understand their business goals and objectives
-5. Develop technical and business requirements and always strive to deliver intuitive and user-centered solutions
-6. Combine creativity with an awareness of the design elements
-7. Create prototypes for new product ideas
-8. Test new ideas before implementing
-9. Conduct an ongoing user research
-
-Skills and other requirements:
-
-1. Basic knowledge in React Native will give you an added advantage
-
-<br? Skills Required <br>
-<ul>
-    <li>Figma</li>
-</ul>
-<br>Who Can Apply : <br>
-Only those candidates can apply who:
-
-1. are available for the work from home job/internship
-
-2. can start the work from home job/internship between 10th Oct'22 and 14th Nov'22
-
-3. are available for duration of 2 months
-
-4. have relevant skills and interests
-
-* Women wanting to start/restart their career can also apply.
-
-<br><a href="https://internshala.com/internship/detail/mobile-app-development-work-from-home-job-internship-at-hello-reception1665423598">Apply Now.</a><br>
-
-</details>
 
 </details>
 <details>

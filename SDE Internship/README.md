@@ -439,3 +439,50 @@ To have explored writing code in any of the following languages: Python/Java/Jav
 [official website link](https://voidcareers.com/f/twilio---software-engineer-intern-batch-2024)
 
 </details>
+
+<details>
+<summary> Oracle Software Engineer Intern - Analytics Cloud</summary>
+<br>
+About <br>
+ 
+#### What are the pros of joining this internship : 
+ 
+Get a foot in the door and perhaps even get the chance to interview early for one of the best technology jobs in the world. <br>
+Gain invaluable experience in what it is like to work at a leading global hardware and software systems innovator - Oracle. <br>
+Your colleagues are industry experts and knowledgeable veterans.<br>
+ Your contributions will enhance real Oracle products and services.<br>
+You will apply your knowledge of software development to work on tasks associated with developing, debugging or designing enterprise class software application.<br>
+  Work on product code in all possible layers of complex multi-tier distributed environment.<br>
+By the end of your internship you will be connected to a powerful network of professionals, managers, and executives. <br>
+
+Qualifications:<br>
+  
+You'd fit right in if you have: <br> 
+ 
+• Will be enrolled in a Bachelor’s or Master’s degree program in Computer Science or an equivalent science/engineering field.<br>
+• Have completed at least your sophomore year toward your undergraduate degree, or higher.<br>
+• Have no more than 12 months of professional full-time work experience in the technology field (excluding internships, research and/or teaching assistant roles, and military experience).<br>
+• Are proficient (i.e., able to complete coding projects with no assistance) in at least one of the following programming languages:<br>
+  o	Java, JavaScript, C++, Python, SQL<br>
+• Have completed coursework, projects, internships, and or research in two or more of the following technical areas:<br>
+ o	Algorithms<br>
+ o	Databases<br>
+ o	Data Structures<br>
+ o	Computer Systems<br>
+ o	Computer Operations<br>
+ o	Machine Learning<br>
+ o	User Interface Design<br>
+  
+Join us If you are excited about:  <br>
+
+• High-impact projects: You’ll get the opportunity to directly influence our cutting-edge products. <br>
+
+• Mentors that care: Work with industry-leading professionals and award-winning engineers. On top of your project supervisor, you’ll be assigned a peer mentor—a recent hire who can help you navigate the internship experience.<br>
+• World-class training: Grow from once-in-a-lifetime learning opportunities and exposure to the latest technologies. You’ll benefit from comprehensive on-boarding and job-specific training that will help you get the most out of your time with us.<br>
+• A fun-filled summer: Enjoy a close-knit, community experience alongside your class of fellow summer interns. Our interns work across the length and breadth of our business but come together for fun weekly events like tech talks, networking, volunteering, and fun social happenings.<br>
+
+
+Official Website- <br>https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
+<br>
+
+</details>

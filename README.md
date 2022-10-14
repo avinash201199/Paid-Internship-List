@@ -1387,3 +1387,16 @@ https://ciandt.com/br/pt-br/carreiras/programa-de-estagio?utm_source=linkedin&ut
 </details>
 
 </details>
+
+<details>
+<summary> Oracle Software Engineer Intern - Analytics Cloud </summary>
+<br>
+About <br>
+Get a foot in the door and perhaps even get the chance to interview early for one of the best technology jobs in the world. 
+Gain invaluable experience in what it is like to work at a leading global hardware and software systems innovator - Oracle. <br>
+
+Official Website- <br>
+https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
+<br>
+</details>
+

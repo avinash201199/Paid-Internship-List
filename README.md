@@ -1400,3 +1400,13 @@ https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requ
 <br>
 </details>
 
+<details>
+<summary> Angular Development Internship in Mohali at Fitelo
+
+ </summary>
+<br> Fitelo is a pre-series A-funded startup operating in the space of weight loss and disease management. We aim for our users to achieve long-term wellness through simple, powerful, personalized, and holistic changes in nutrition and eating habits. We have served 25k+ users across 55+ countries and have a 99.3% success rate through our 200+ expert nutritionists. We use a combination of nutrition expertise and our proprietary habit-building technology to deliver outcomes.
+<br>
+Official Website- <br>
+https://fitelo.co/
+<br>
+</details>

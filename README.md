@@ -1399,4 +1399,20 @@ Official Website- <br>
 https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
 <br>
 </details>
+ 
+<details>
+<summary> Angular.js Development Internship in Bangalore at Gloify </summary>
+<br>
+Gloify is a product-based company that creates technological solutions for diverse industries. We have been dedicated to creating simple products that solve complex business needs. Our product suite comprises enterprise-level as well as small-medium business market solutions. From discovery to post-deployment support, we deal with all the phases of business deployment to ensure that we help our associates rise.
+<br>
+Official Website- <br>
+https://gloify.com/
+<br>
+<ul>
+  <li>The Internship period will be for 5 months.</li>
+  <li>Internship stipend will be INR 10,000 /month.</li>
+</ul>
+</details>
+ 
+ 
 

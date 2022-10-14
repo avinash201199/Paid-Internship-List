@@ -1400,3 +1400,21 @@ https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requ
 <br>
 </details>
 
+ <details>
+<summary> Java Development part time job/internship at Multiple locations in Techvolt Software Private Limited </summary>
+<br>
+Techvolt Software Private Limited is a startup located in Coimbatore. We are involved in the business entity of web development, Android development, and software testing along with embedded and IoT applications development. We also provide digital marketing services for business promotion to clients and their customers across India. <br>
+
+<br>
+
+Official Website- <br>
+https://www.techvoltcoimbatore.com/<br>
+<br>
+Details of Internship:
+<ul>
+  <li>The Internship period will be for 6 months.</li>
+  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
+  <li>Internship stipend will be INR 7,000/- per month.</li>
+
+</ul>
+</details>

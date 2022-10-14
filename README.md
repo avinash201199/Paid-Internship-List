@@ -1399,4 +1399,20 @@ Official Website- <br>
 https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
 <br>
 </details>
+ 
+<details>
+<summary> React Native Design Internship in Delhi at Eupheus Learning </summary>
+<br>
+Eupheus in Greek means the active seeking of knowledge and readiness of will to learn. The company offers to bridge the gap between what is taught in class using institutional textbook-driven solutions and retail at-home learning providers by seamlessly integrating both. Eupheus Learning aims to offer pedagogically differentiated and technology-driven solutions that lead to critical thinking and achievement of higher learning outcomes in the K 12 space.
+<br>
+Official Website- <br>
+https://www.eupheus.in//<br>
+<br>
+Details of Internship:
+<ul>
+  <li>The Internship period will be for 6 months.</li>
+  <li>The extension of internship period and issuance of post dated offer letter will be solely depends on the outcome of performance review at the end of 3 months.</li>
+  <li>Internship stipend will be INR 7,000/- per month.</li>
+</ul>
+</details>
 

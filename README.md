@@ -1400,3 +1400,17 @@ https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requ
 <br>
 </details>
 
+<details>
+<summary> Java Development Internship in Noida at ThoughtWizards Private Limited </summary>
+<br>
+We identify ourselves as an Enterprise Software and Web development company. We are a team of talented software architects, developers, designers, and strategists that simplify even the most complex business challenges through technology. Our mission is to offer innovative software services that address complex business challenges enabling our customers to succeed in their marketplace.
+<br>
+
+Official Website- <br>
+https://thoughtwizards.com/<br>
+<br>
+ <ul>
+  <li>The Internship period will be for 6 months.</li>
+  <li>Internship stipend will be INR 8,000 /month.</li>
+</ul>
+</details>

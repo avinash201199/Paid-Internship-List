@@ -499,7 +499,7 @@ Our inaugural “Thrive” class is made up of 8 rising juniors majoring in comp
 
 In addition to the extraordinary “DuoIntern” experience, there are three core elements that make the Duolingo Thrive Program unique:<br><br>
 
-####1.Hootcamp<br>
+### 1.Hootcamp<br>
   
 First is <b>Hootcamp!</b> Hootcamp is a series of interactive courses led by Duos from across the company. Each course is designed to introduce Thrive Interns to the basics of software engineering at Duolingo and prepare interns for navigating their future careers. Some examples of Hootcamp courses include:<br>
 
@@ -510,7 +510,7 @@ Financial Planning<br>
 Networking 101<br>
 ...and 15+ more!<br>
   
-####2.Unique group projects with Duolingo software engineers<br>
+### 2.Unique group projects with Duolingo software engineers<br>
 
 Our second core element is the projects the Thrive Interns develop. Hootcamp gives our Thrive Interns the tools and skills to collaborate with each other in building out their uniquely impactful group projects. Our interns were divided into two groups of four and led by a Duolingo Software Engineer called a “Thrive Advisor.” Each group was fully integrated into one of our product teams, and this year, they worked on two projects:<br>
 
@@ -518,7 +518,7 @@ GoodStories: a personalized Duolingo Stories search feature, integrated into our
 DuoHoot: player vs. player lesson types, integrated into our Connections product team.<br>
 In their final week, our Thrive Interns will present their projects to the company during a project showcase.<br>
 
-####3.1-1 mentorship to last beyond 8 weeks<br>
+### 3.1-1 mentorship to last beyond 8 weeks<br>
 
 In addition to the support that they’ve received from their Thrive Advisors, Thrive Interns are matched with a mentor called a Thrive Buddy. Buddies are early-career Duolingo software engineers who help Thrive Interns navigate their transition into professional life, tackling topics like:<br>
 

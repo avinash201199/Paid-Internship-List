@@ -1,4 +1,32 @@
 <details>
+<summary> Test Engineering Internship Xiaomi India </summary>
+<br>
+About <br>
+ 
+#### Responsibilities:
+ 
+Assist with day-to-day ROM testing - We have 13+ devices that go through a continuous development process and hence there will be test suites which has a complete on-demand basis <br>
+Follow Agile software development methodology therefore new features/implementations need to be checked continuously across various iterations <br>
+Work with BSP Engineers for feature additions and fixes <br>
+Assist with user review analysis <br>
+Build an automated test system <br>
+
+Education and Experience Required:<br>
+In-depth understanding of Display technologies - A very basic understanding of LCD/LED/OLED/AMOLED display technologies as well as applications of it like HDR/HDR10/Dolby Vision <br>
+Aware of Smart TV testing for Board Support Packages - Applicant should have a very clear understanding of TV functions such as HDMI/USB/Optical/Co-axial/Ethernet/Wireless Interfaces <br>
+Ability to write scripts for testing - Additional benefit if the application has programming experience where the applicant can write scripts that can automate testing functions <br>
+Understanding of display and sound technology - Applicant should have a greater understanding of technology rather than just the functions and is expected to identify new technologies and find applications in our ecosystem of devices <br>
+Ability to isolate, analyze and identify issues in feature flows - Applicant should be able to identify user behavior and suggest optimal flows to improve our user experience <br>
+Self-learning - Applicant is expected to learn new things/unknown things by themselves this will ensure they can work independently <br>
+Programming capability in Java/Python or any scripting language - Any level of programming is hugely welcomed. Applicants can always learn higher levels during their time at work <br>
+
+
+Official Website- <br>
+https://xiaomi.app.param.ai/jobs/test-engineer-894/?utm_source=Test_Engineering_Internship_unstop&utm_medium=listing&utm_campaign=unstop<br>
+<br>
+
+</details>
+<details>
 <summary> Motorolasolutions- Manufacturing Test Engineer Intern (2023 Internship) </summary>
 <br>
 About <br>

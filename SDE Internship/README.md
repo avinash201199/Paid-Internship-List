@@ -486,3 +486,50 @@ Official Website- <br>https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperie
 <br>
 
 </details>
+<details>
+<summary> Duolingo Thrive Intern software program</summary>
+<br>
+About <br>
+ 
+#### What is the Duolingo Thrive Intern program? : 
+ 
+The Duolingo Thrive Program is an immersive 8-week summer internship program that provides second-year students from communities underrepresented in tech the opportunity to develop their technical skills and experience what it’s like to work at Duolingo.<br><br>
+
+Our inaugural “Thrive” class is made up of 8 rising juniors majoring in computer science. Each Thrive Intern started this summer excited to conquer new challenges and help us develop better language education for learners around the world.<br><br>
+
+In addition to the extraordinary “DuoIntern” experience, there are three core elements that make the Duolingo Thrive Program unique:<br><br>
+
+####1.Hootcamp<br>
+  
+First is <b>Hootcamp!</b> Hootcamp is a series of interactive courses led by Duos from across the company. Each course is designed to introduce Thrive Interns to the basics of software engineering at Duolingo and prepare interns for navigating their future careers. Some examples of Hootcamp courses include:<br>
+
+Systems Architecture<br>
+Web Frontend<br>
+Metrics and Testing<br>
+Financial Planning<br>
+Networking 101<br>
+...and 15+ more!<br>
+  
+####2.Unique group projects with Duolingo software engineers<br>
+
+Our second core element is the projects the Thrive Interns develop. Hootcamp gives our Thrive Interns the tools and skills to collaborate with each other in building out their uniquely impactful group projects. Our interns were divided into two groups of four and led by a Duolingo Software Engineer called a “Thrive Advisor.” Each group was fully integrated into one of our product teams, and this year, they worked on two projects:<br>
+
+GoodStories: a personalized Duolingo Stories search feature, integrated into our Stories product team.<br>
+DuoHoot: player vs. player lesson types, integrated into our Connections product team.<br>
+In their final week, our Thrive Interns will present their projects to the company during a project showcase.<br>
+
+####3.1-1 mentorship to last beyond 8 weeks<br>
+
+In addition to the support that they’ve received from their Thrive Advisors, Thrive Interns are matched with a mentor called a Thrive Buddy. Buddies are early-career Duolingo software engineers who help Thrive Interns navigate their transition into professional life, tackling topics like:<br>
+
+Professional networking at Duolingo and beyond<br>
+Time management<br>
+Collaboration and communication<br>
+Interns’ individual professional journeys<br>
+The impact of the Duolingo Thrive Program is designed to last far beyond our interns’ 8 weeks at Duolingo. Our Thrive Buddies have built meaningful relationships with their interns and are committed to mentoring them through their return to school in the fall and as they transition into professional life.<br>
+
+
+Official Website- <br> https://careers.duolingo.com/?type=Thrive%20Program#openings
+<br>
+
+</details>

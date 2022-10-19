@@ -1311,4 +1311,13 @@ Official Website- <br>
 https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions?mode=location
 <br>
 </details>
+<details>
+<summary> Internship Program – Nethermind- Blockchain Developer </summary>
+<br>
+About <br>
+We are a team of world class builders and researchers with expertise across several domains: Ethereum Protocol Engineering, Layer-2, Decentralized Finance (DeFi), Miner Extractable Value (MEV), Smart Contract Development, Security Auditing and Formal Verification. <br>
 
+Official Website- <br>
+https://cryptocurrencyjobs.co/other/nethermind-internship-program/
+<br>
+</details>

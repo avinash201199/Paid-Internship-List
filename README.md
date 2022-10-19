@@ -54,23 +54,6 @@ https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requ
 </details>
 
 <details>
-<summary>AngelList Talent</summary>
-<br>
-About <br>
-AngelList Talent is the world's #1 startup community specialized in technical talent and opportunities
-<br>
-<br>
-
-Official Website- <br>
-https://angel.co/jobs<br>
-<br>
-
-</details>
-
-
-
-
-<details>
 <summary> Cuvette Internship Programs </summary>
 <br>
 About <br>

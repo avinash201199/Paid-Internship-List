@@ -42,3 +42,18 @@ https://www.linkedin.com/jobs/internship-jobs/<br>
 <br>
 
 </details>
+
+
+<details>
+<summary>AngelList Talent</summary>
+<br>
+About <br>
+AngelList Talent is the world's #1 startup community specialized in technical talent and opportunities
+<br>
+<br>
+
+Official Website- <br>
+https://angel.co/jobs<br>
+<br>
+
+</details>

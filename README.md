@@ -1504,3 +1504,16 @@ Official Website- <br>
 https://cryptocurrencyjobs.co/other/nethermind-internship-program/
 <br>
 </details>
+ 
+ <details>
+<summary> Internship at Paloalto networks </summary>
+<br>
+About <br>
+Interns are a crucial part of our culture at Palo Alto Networks. Each year the company carefully selects individuals from a competitive candidate pool. In our eyes, interns are the future!
+
+In the span of twelve weeks, interns experience unique learning opportunities and work on meaningful projects that cater to their career goals. Besides building the skills necessary to succeed in their professional life, PANW values the relationships interns make in the workplace. From managers, to mentors, to fellow co-workers, there is always someone that they can turn to for support. <br>
+
+Official Website- <br>
+https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
+<br>
+</details>

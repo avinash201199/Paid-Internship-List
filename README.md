@@ -1517,3 +1517,39 @@ Official Website- <br>
 https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
 <br>
 </details>
+<details>
+<summary>Monster</summary>
+<br>About <br>
+Monster India, which has its headquarters in Hyderabad, began operations in 2001.It helps millions of students get their dream internships and is certainly one of the best jobs and internships websites in India.
+<br>
+<br>
+
+official website- <br>
+https://www.monsterindia.com<br>
+<br>
+</details>
+
+
+<details>
+<summary>Naukri</summary>
+<br>About <br>
+It is one of the top-rated internship websites in India. It has a large database of top firms which the students can easily access. They can also filter results by mentioning their key skills, location preference or even organization preferences.
+<br>
+<br>
+
+official website- <br>
+https://www.naukri.com<br>
+<br>
+</details>
+
+<details>
+<summary>Indeed</summary>
+<br>About <br>
+One of the largest visited career websites with more than 250 million active websites, it helps the students to secure an internship based on various parameters.
+<br>
+<br>
+
+official website- <br>
+https://in.indeed.com<br>
+<br>
+</details>

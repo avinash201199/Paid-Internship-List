@@ -1517,3 +1517,41 @@ Official Website- <br>
 https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
 <br>
 </details>
+
+<details>
+<summary> CRED Intern Roles </summary>
+<br>
+
+#### Role: Operations excellence intern
+
+#### Location: Benguluru, Karnataka, India
+
+#### Responsibilities:
+
+* analyse business processes, find gaps and tackle problems in creative and logical ways and consistently brainstorm alternative solutions
+* collaborate with different stakeholders within and outside operations to solve problems and develop solutions
+* identifying automation opportunities and helping the teams to reduce the manual/monotonous efforts
+* draw up and generate reports and dashboards using BI tools (Tableau, Metabase, Redash) to support various functions in operations
+* utilise SQL to efficiently extract data for end-users
+* work on no code tool platform/Python for automation and other internal use cases
+* maximize output/efficiency of ticketing tools (CRM) for better customer experience
+* define metrics for continuous monitoring of performance
+* evaluate and create processes to handle customer queries for different LOBs
+* build an operating plan for CS for planning and strategy
+
+
+#### Eligibility:<br>
+* possess strong analytical skills, make well judged decisions, have good numeracy and pay strong attention to detail with great problem solving
+have a flexible approach and can thrive under pressure and a fast paced work environment
+* are fluent in Microsoft Excel
+* exhibit good knowledge in SQL and have hands on experience with SQL
+* are familiar with data analytics and data visualization
+* have prior operations/customer centric internship experience
+* can be a full time intern for six months, join as early as possible and work out of the Bangalore office
+
+
+Official Website- <br>
+https://careers.cred.club/jobPosting?apply_url=https://jobs.lever.co/cred/3332081c-d0b6-4672-b968-3f44024010a0/apply<br>
+<br>
+
+</details>

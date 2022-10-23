@@ -1555,3 +1555,29 @@ Official Website- <br>
 https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
 <br>
 </details>
+ 
+ <details>
+<summary> Internship at Cadence For Software Engineering</summary>
+<br>
+Responsibilities <br>
+Interns at Cadence play a crucial role in bringing new creative ideas to Cadence and helping us in our pursuit to solve cutting-edge technical challenges. Interns are part of project teams and are expected to learn the respective tools, flow & associated technologies on the job. The interns are assigned a mentor/manager who continually help and guide them during this learning process. During this training, the interns get an opportunity to work on multiple live assignments to learn the workings of the actual tool. They also get to learn the nuances of working in a team and the corporate world.
+ <br>
+<h5>Position Requirements</h5>
+<br>Fresh Engineering graduate in electronics or Comp Science
+
+Very good digital/analog skills
+
+Strong analysis and problem solving skills
+
+Excellent algorithmic skills
+
+Team Player
+
+Strong ability and passion to learn
+
+Excellent verbal and written communication skills<br>
+
+Official Website- <br>
+https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Intern-Software-Engineering_R40917
+<br>
+</details>

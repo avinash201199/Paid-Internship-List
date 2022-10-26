@@ -57,3 +57,17 @@ https://angel.co/jobs<br>
 <br>
 
 </details>
+
+
+<details>
+<summary> Unstop</summary>
+<br>
+About <br>
+Unstop is a platform that enables companies to discover, engage, assess, and hire the right talent #BeyondBoundaries through gamified engagements - hackathons, coding challenges, business case competitions, simulation games, quizzes, hiring challenges, etc
+<br>
+
+Official Website- <br>
+https://unstop.com/internships?filters=,all,open,all&types=teamsize,payment,oppstatus,eligible<br>
+<br>
+
+</details>

@@ -1555,3 +1555,33 @@ Official Website- <br>
 https://jobs.paloaltonetworks.com/en/blog/internships/what-national-intern-day-means-to-palo-alto-networks/
 <br>
 </details>
+ 
+ <details>
+  <summary> Adobe ADP 2023 Internship </summary>
+  <br>
+  About<br>
+The Adobe Developer website team is looking for a self-driven website engineer who wants to be challenged and learn from an experienced distributed team. You will have the opportunity to help plan, design, develop, and test software for the Developer Website platform that supports https://developer.adobe.com To be successful, you should have some practical experience with developing platform components or websites using CSS, JavaScript, Markdown, HTML, and JSON.
+
+All 2023 Adobe Interns will be ‘co-located hybrid’, meaning that you will be assigned to an Adobe office location but in-office schedules will be flexible (2-3 days per week). All interns must live in the same state, country, and within commuting distance of their assigned Adobe office, so they can be on-site as needed. Interns visiting Adobe sites must follow all applicable COVID-19 health and safety protocols.
+What you'll Do
+Develop high-performance, reliable, testable and maintainable code using CSS, JavaScript, Markdown/MDX, HTML.
+Participating in all aspects of software development activities, including design, coding, code review, testing, bug fixing.
+Work both independently and collaboratively within a fast-paced development team, with clear, positive, and constructive communication.
+Collaborate with engineers and participate in weekly demos and meetings.
+Grow with the support of your team and help others on the team grow by providing thoughtful feedback and uplifting those around you.
+Collaborate with other teams on open development projects to build functionality across the Developer website. What you need to succeed
+Currently enrolled full time and pursuing a Bachelor's or Master’s in Computer Science, Computer Engineering, or equivalent experience required.
+Strong technical background with analytical and problem-solving skills
+Previous related experience in software engineering specifically website development. (applicable coursework, projects, internships, etc.)
+Proficiency or some experience with at least one or more of the following: Markdown, MDX, CSS, HTML, JavaScript, JSON
+Familiar with APIs, Github and Jira is a bonus.
+Familiar with the software development lifecycle - designing, developing, deploying, and maintaining websites and mobile apps
+Self-driven, Results-oriented, with ability and interest in learning new technologies and adapting quickly to new requirements and environments
+Excellent verbal and written communication skills; can effectively articulate complex ideas and influence others through well-reasoned explanations.
+Ability to participate in a full-time internship between May-September.<br>
+  
+Official Website- <br>
+https://careers.adobe.com/us/en/job/ADOBUSR131637EXTERNALENUS/2023-Intern-ADP-Website-Engineer?utm_source=indeed&utm_medium=phenom-feeds
+<br>
+ 
+</details>

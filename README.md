@@ -1581,3 +1581,20 @@ Official Website- <br>
 https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Intern-Software-Engineering_R40917
 <br>
 </details>
+<details>
+<summary> Hackerearth Internship </summary>
+<br>
+About <br>
+HackerEarth is an AI-powered developer assessment software that helps companies to accurately measure a developer’s skills through online coding tests. It takes a skill-based approach to assessment, allowing companies to automatically generate standardized tests based on various skills and then accurately measure the developer’s performance on those skills.
+
+Create/Review Machine Learning and Data Science + Data Engineering questions for the following:
+HackerEarth’s library
+HackerEarth’s monthly challenges
+ML hiring challenges
+ML/AI Hackathons
+Create/Update/Review of HackerEarth’s ML practice section articles
+
+Apply Here - <br>
+https://hackerearthjobs.hire.trakstar.com/jobs/fk0ste6/
+<br>
+</details>

@@ -69,3 +69,22 @@
 [official website link](https://jobs.lever.co/cohere/2252200f-104f-4d95-840d-c1d9cbcfda9b)
 </details>
 
+
+
+<details>
+  <summary>Hackerearth - ML & DS - Technical Content Engineer - Intern </summary>
+ <br>
+ <h1>About</h1>
+ 
+##### Skills & Experience We're Looking For 👨‍💻
+  
+* Programming languages Python3 (must have) R (good to have)
+* In-depth knowledge of statistics and machine learning algorithms
+* Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+* Hands-on experience in solving business problems (good to have)
+* Exposure to building deep learning models
+* Hands-on experience in using query languages such as SQL
+<br>
+
+[official website link](https://hackerearthjobs.hire.trakstar.com/jobs/fk0ste6/)
+</details>

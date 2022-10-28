@@ -558,3 +558,25 @@ Official Website- <br>
 https://cadence.wd1.myworkdayjobs.com/External_Careers/job/NOIDA/Intern-Software-Engineering_R40917
 <br>
 </details>
+
+
+<details>
+<summary>Microsoft Engage Internship Opportunity</summary>
+<br>
+About Internship: <br>
+Microsoft engage is a mentorship program conducted by Microsoft in the month of June-July, and opens for only 2nd-year students, application opens towards the end of 2nd year (this timeline may vary with college), and students from some specific colleges are selected. 
+
+  Eligibility Criteria:
+  <br><br>
+-Graduation year: 2nd
+-CGPA: 7 and above.
+-Course: B.Tech/B.E/Dual Degree
+-Branch: Any
+-No pending backlogs
+-Strong CS Fundamentals and Coding principles required
+  <br>
+  
+  Official website -https://acehacker.com/microsoft/engage2022/
+  YouTube Channel -https://www.youtube.com/watch?v=CznXgj_uRXI
+  <br>
+</details>

@@ -534,6 +534,7 @@ Official Website- <br> https://careers.duolingo.com/?type=Thrive%20Program#openi
 
 </details>
 
+ <details>
 <summary> Internship at Cadence For Software Engineering</summary>
 <br>
 Responsibilities <br>

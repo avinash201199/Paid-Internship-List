@@ -580,3 +580,46 @@ Microsoft engage is a mentorship program conducted by Microsoft in the month of 
   YouTube Channel -https://www.youtube.com/watch?v=CznXgj_uRXI
   <br>
 </details>
+
+
+<details>
+<summary> McAfee - Software Engineering Intern</summary>
+<br>
+<h1>About</h1>
+McAfee is hiring for the position of Software Engineering Intern!<br><br>
+
+
+##### RESPONSIBILITIES OF THE INTERN:
+
+- Collaborate with teams, be challenged by and together dream up the next big solution.<br>
+- Interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate the feasibility of requirements   and determine priorities for development.<br>
+- Follow a collaborative process with architects and peers to find innovative solutions to group-specific business problems.<br>
+- Prove your ideas with proofs-of-concept and follow on with creating production-quality solutions.<br>
+- Develop your skills in line with your interests, take on increased responsibilities as you develop within the organization.
+  <br><br>
+  
+ ##### BASIC REQUIREMENTS:
+
+- You have a love of good code and an instinct for clean design. A knowledge of software design principles and of at least one of the languages we use (Java, C,         Python, or C#)<br>
+- Eagerness to learn and switch between programming languages to best suit the job at hand.<br>
+- A degree in computer science is preferred real-world programming experience to earn the respect of your colleagues.<br>
+- Experience working with databases (relational or NoSql)<br>
+- Working proficiency in a Linux environment<br>
+- Ability to troubleshoot and solve complex system engineering problems<br>
+- Familiarity with iterative software development and rapid prototyping methodologies<br>
+- Good technical communication skills and the ability to explain complex concepts clearly and succinctly in both writing and speech<br>
+  <br>
+  
+##### ABOUT THE ROLE:
+  
+- You will be surrounded by a team of passionate engineers off whom you will bounce ideas, will collaborate with, be challenged by, and together dream up the next big   solution.<br>
+- You will interact with multiple technologists within the company and the industry as well as with developers and project managers to evaluate feasibility of  
+  requirements and determine priorities for development. <br>
+- You will follow a collaborative process with architects and peers to find innovative solutions to group specific business problems.<br>
+- You will have the opportunity to prove your ideas with proofs-of-concept and follow on with creating production-quality solutions.<br>
+- You will develop your skills in line with your interests, taking on increased responsibilities as you develop within the organization.<br>
+<br>
+
+##### Website Link - https://careers.mcafee.com/job/-/-/731/38695557632
+  <br>
+</details>

@@ -1641,3 +1641,21 @@ McAfee is hiring for the position of Software Engineering Intern!<br><br>
 ##### Website Link - https://careers.mcafee.com/job/-/-/731/38695557632
   <br>
 </details>
+ 
+  <details>
+<summary> Web Developer Intern </summary>
+<br>
+About <br>
+*Internship Program*
+
+Company - Yougetplaced
+Stipend - Rs 3000 to Extendible on your performance
+Position - Web Developer Intern
+Requirements - HTML/CSS/JS/React JS
+Location - Remote Work from Home (Hands on Project)
+Duration - 1 Month - Extendible <br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/3331165177
+<br>
+</details>

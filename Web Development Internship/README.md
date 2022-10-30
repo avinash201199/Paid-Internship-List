@@ -186,3 +186,21 @@ Perks <br>
 Apply <br> here : https://internshala.com/internship/detail/web-development-work-from-home-job-internship-at-disruptive-consultancy-services-private-limited-development-monitors-india1664980247
 
 </details>
+
+ <details>
+<summary> Web Developer Intern </summary>
+<br>
+About <br>
+*Internship Program*
+
+Company - Yougetplaced
+Stipend - Rs 3000 to Extendible on your performance
+Position - Web Developer Intern
+Requirements - HTML/CSS/JS/React JS
+Location - Remote Work from Home (Hands on Project)
+Duration - 1 Month - Extendible <br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/3331165177
+<br>
+</details>

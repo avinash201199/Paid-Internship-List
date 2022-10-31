@@ -1659,3 +1659,43 @@ Official Website- <br>
 https://www.linkedin.com/jobs/view/3331165177
 <br>
 </details>
+
+<details>
+<summary> Frontend Developer Intern </summary>
+<br>
+About <br>
+*Internship Program*
+
+Department: Engineering
+
+Prerequisite:
+Knowledge in HTML, CSS, Javascript, Bootstrap, React Js, Vue Js
+Basic idea about of GitHub, CLI and AWS (Preferred)
+Access to PC with stable Internet Connection
+
+Work Timing:
+
+Anytime! Anywhere! This Internship program is primary designed keeping in mind college going students. There is no specific work time. Being a fully-remote program, you'll be embedded into micro teams and tasked with works to be completed in a flexible timeframe set by yourself.
+
+Who can apply?
+Anyone who want to develop their coding skills with relevant prerequisite skills and interests.
+Our goal is to provide you with practical knowledge and exposure while you are still at college.
+We actively offer full-time offer letters to our best Interns when they pass out from their college.
+If you are not a college-goer, you can still apply as Acowale hiring process focus only on skills.
+ 
+What are the Job Requirements?
+Work with senior team on Acowale's new underdevelopment web & mobile application.
+You'll be given micro task to develop specific parts of Acowale's new web & mobile app.
+You'll have to complete the given tasks from framework we provide under guidance of senior team.
+Work together with the design team to build the application.
+Assist in running the preliminary tests for the platform.
+Create delightful, compelling, user-centered experiences across interfaces for web and mobile.
+Think creatively and develop new design concepts, graphics and layouts.
+Prepare rough drafts and present your ideas.
+Build elegant flows & interactions for audiences across platforms and work closely with product managers, visual designers, and other development engineers to ensure Acowalian goals are met throughout the journey.
+Analyze heatmap, Google Analytics, and other data to make better decisions to meet user goals.<br>
+
+Official Website- <br>
+https://www.linkedin.com/jobs/view/3328918623
+<br>
+</details>

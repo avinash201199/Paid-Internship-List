@@ -624,3 +624,70 @@ McAfee is hiring for the position of Software Engineering Intern!<br><br>
 ##### Website Link - https://careers.mcafee.com/job/-/-/731/38695557632
   <br>
 </details>
+
+<details>
+<summary> 2023 Intern - Software Engineering ADOBE </summary>
+<br>
+About <br>
+
+Location: Hamburg
+Expected Start Date: 1st of April 2023
+
+Application Deadline: 20th of November 2022
+
+Duration: 3-6 months
+
+About the team
+
+We are offering intern positions within our Adobe Cloud Platform (ACP) development team based in Hamburg, Germany. This position is for a currently inscribed student, limited to 6 months of employment for a full time engagement (40 hours per week). This means, you have to be pursuing a relevant University degree (bachelor or master) to apply.
+
+ACP is the platform for multiple Adobe SaaS offerings, operated across multiple regions on Amazon Web Services (AWS) and Microsoft Azure. As a member of a multi-functional, self-organizing development team you will contribute to developing, deploying, and ownership of internal and public dockerized Java microservices.
+
+"Build it and own it!" is the credo for our development teams.
+
+You will collaborate with agile teams located in Hamburg as well as with teams in the US and India. You will also have the opportunity to engage in internal and external communities of interest to learn and grow.
+
+What you will do
+
+Together with your multi-functional team, pursue a project goal for the microservices that the team is responsible for.
+
+Show initiative and flexibility to learn on a continuous and self-motivated basis.
+
+Work in the team and actively contribute to the team culture
+
+What you need to succeed
+
+Knowledge about methods to ensure functional correctness of software and how to create readable and maintainable code in modern Java
+
+Fundamental knowledge about web services and related technologies like HTTP, JSON and web server.
+
+Dedication to team-work, self-organization, and continuous improvement
+
+Proficiency in English, good knowledge or ability to learn German
+
+Curiosity and high engagement to learn with a systematic and team-based approach
+
+What would be great on top
+
+Experience with Spring framework
+
+Knowledge about and familiarity with infrastructure technologies used in distributed cloud systems like containerisation, NoSQL databases, IaaS providers, CI/CD and monitoring tools
+
+What to expect from the recruitment process  
+
+All applications will be reviewed after the close date, so please don’t panic if you don’t hear from us straight away! Our selection process typically consists of three stages as follows:
+
+Online assessment
+
+Technical interview
+
+Soft Skills interview
+
+Benefits
+
+At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists. You will be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely. In Hamburg, we like to work in our fantastic office at the Fischmarkt with full view on the harbor, but you can flexibly work from home when needed.
+
+If you’re looking to make an impact, Adobe is the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
+  website - https://careers.adobe.com/us/en/job/R133739/Intern-2023-Software-Engineering
+  <br>
+</details>

@@ -204,3 +204,26 @@ Official Website- <br>
 https://www.linkedin.com/jobs/view/3331165177
 <br>
 </details>
+
+ <details>
+<summary> Full Stack Developer Intern at Klimb.io </summary>
+<br>
+About Internship Program
+<br>
+Company - Klimb.io <br>
+Stipend - Rs. 15,000 per month <br>
+Position - Full Stack Developer Intern <br>
+Requirements:
+<li>Hands-on with deployment & AWS</li>
+<li>Proficient in Node.js or any modern backend stack</li>
+<li>Proficient in Angular.js or similar frontend Javascript frameworks</li>
+<li>Comfort level with few technologies of a modern stack such as MongoDB, ElasticSearch, Redis, AWS, etc</li>
+<li>Strength in logical programming</li>
+<br>
+Location - Remote Work from Home <br>
+Duration - 6 Month  <br>
+
+Apply Here- <br>
+https://www.instahyre.com/job-270021-full-stack-developer-intern-internship-at-klimb-work-from-home)https://www.instahyre.com/job-270021-full-stack-developer-intern-internship-at-klimb-work-from-home
+<br>
+</details>
